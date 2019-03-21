@@ -1,7 +1,7 @@
 ---
 entries:
   QL_RinelSearch_Desc:
-    - text: "Laflat asked that you "
+    - text: "Laflat asked that I "
     - control:
         kind: set_colour
         colour: red
@@ -15,15 +15,15 @@ entries:
     - text: Lynel
     - control:
         kind: reset_colour
-    - text: " if you see one. The nearest\none she knows of is on Ploymus Mountain.\n\nUse whatever means you have at your\ndisposal to give her a look."
+    - text: " if I see one. The nearest\none she knows of is on Ploymus Mountain.\n\nI'm to use whatever means I have at my\ndisposal to give her a look."
   QL_RinelSearch_Finish:
-    - text: "You showed Laflat a picture of a red-maned\n"
+    - text: "I showed Laflat a picture of a red-maned\n"
     - control:
         kind: set_colour
         colour: red
     - text: Lynel
     - control:
         kind: reset_colour
-    - text: ".\n\nShe gave you her Zora greaves as a reward."
+    - text: ".\n\nShe gave me her Zora greaves as a reward."
   QL_RinelSearch_Name:
     - text: Lynel Safari

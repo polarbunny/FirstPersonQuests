@@ -1,7 +1,7 @@
 ---
 entries:
   QL_BalladOfHeroGoron_Desc:
-    - text: "The scattered One-Hit Obliterator led you to a\nlocation where a stone monument with a map of\ntrials appeared. Kass's song seems related...\n\nOne, "
+    - text: "The scattered One-Hit Obliterator led me to a\nlocation where a stone monument with a map of\ntrials appeared. Kass's song seems related...\n\nOne, "
     - control:
         kind: set_colour
         colour: red
@@ -22,7 +22,7 @@ entries:
     - text: "survive lava's fiery fate"
     - control:
         kind: reset_colour
-    - text: ".\nChampion, trials await!\n\nYou still have "
+    - text: ".\nChampion, trials await!\n\nI still have "
     - control:
         kind: set_colour
         colour: red
@@ -31,18 +31,18 @@ entries:
         kind: reset_colour
     - text: " trials to complete."
   QL_BalladOfHeroGoron_Finish:
-    - text: "You defeated the phantasm of Fireblight\nGanon, which was born from your own\nmemories and fears.\n\nKass's composition, entitled "
+    - text: "I defeated the phantasm of Fireblight\nGanon, which was born from my own\nmemories and fears.\n\nKass's composition, entitled "
     - control:
         kind: set_colour
         colour: red
     - text: "Champion Daruk's\nSong"
     - control:
         kind: reset_colour
-    - text: ", was so true and moving that it allowed\nyou to visualize a memory from 100 years ago.\n\nBy conquering the trial, your sacred power has\nincreased and Daruk's Protection has become\nmore efficient than ever."
+    - text: ", was so true and moving that it allowed\nme to visualize a memory from 100 years ago.\n\nBy conquering the trial, my sacred power has\nincreased and Daruk's Protection has become\nmore efficient than ever."
   QL_BalladOfHeroGoron_Name:
     - text: "EX Champion Daruk's Song"
   QL_BalladOfHeroGoron_Seek1stDungeon:
-    - text: "The scattered One-Hit Obliterator led you to a\nlocation where a stone monument with a map of\ntrials appeared. Kass's song seems related...\n\nOne, "
+    - text: "The scattered One-Hit Obliterator led me to a\nlocation where a stone monument with a map of\ntrials appeared. Kass's song seems related...\n\nOne, "
     - control:
         kind: set_colour
         colour: red
@@ -63,7 +63,7 @@ entries:
     - text: "survive lava's fiery fate"
     - control:
         kind: reset_colour
-    - text: ".\nChampion, trials await!\n\nYou still have "
+    - text: ".\nChampion, trials await!\n\nI still have "
     - control:
         kind: set_colour
         colour: red
@@ -72,7 +72,7 @@ entries:
         kind: reset_colour
     - text: " trials to complete."
   QL_BalladOfHeroGoron_Seek2ndDungeon:
-    - text: "The scattered One-Hit Obliterator led you to a\nlocation where a stone monument with a map of\ntrials appeared. Kass's song seems related...\n\nOne, "
+    - text: "The scattered One-Hit Obliterator led me to a\nlocation where a stone monument with a map of\ntrials appeared. Kass's song seems related...\n\nOne, "
     - control:
         kind: set_colour
         colour: red
@@ -93,7 +93,7 @@ entries:
     - text: "survive lava's fiery fate"
     - control:
         kind: reset_colour
-    - text: ".\nChampion, trials await!\n\nYou still have "
+    - text: ".\nChampion, trials await!\n\nI still have "
     - control:
         kind: set_colour
         colour: red
@@ -102,9 +102,9 @@ entries:
         kind: reset_colour
     - text: " trial to complete."
   QL_BalladOfHeroGoron_Seek3rdDungeon:
-    - text: "You completed the three trials inscribed on the\nstone monument in the Eldin region.\n\nAfter you collected three of Rudania's Emblems,\nthe monk told you to head to the Divine Beast.\nWhat awaits you there?\n\nGo to the Divine Beast Vah Rudania\nto find out."
+    - text: "I completed the three trials inscribed on the\nstone monument in the Eldin region.\n\nAfter I collected three of Rudania's Emblems,\nthe monk told me to head to the Divine Beast.\nWhat awaits me there?\n\nI'll go to the Divine Beast Vah Rudania\nand find out."
   QL_BalladOfHeroGoron_ToRemains:
-    - text: "When you reached Divine Beast Vah Rudania,\nyou heard the monk's voice again, and a new\ntrial began!\n\nA phantasm of Fireblight Ganon, born from\nyour own memories and fears, appeared to\nchallenge your resolve.\n\nComplete the trial using "
+    - text: "When I reached Divine Beast Vah Rudania,\nI heard the monk's voice again, and a new\ntrial began!\n\nA phantasm of Fireblight Ganon, born from\nmy own memories and fears, appeared to\nchallenge my resolve.\n\nI must complete the trial using "
     - control:
         kind: set_colour
         colour: red

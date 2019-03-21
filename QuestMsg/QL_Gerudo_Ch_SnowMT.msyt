@@ -15,15 +15,15 @@ entries:
     - text: Gerudo Highlands
     - control:
         kind: reset_colour
-    - text: ". \nShow a picture of the "
+    - text: ". \nI can show a picture of the "
     - control:
         kind: set_colour
         colour: red
     - text: "eighth statue's torso "
     - control:
         kind: reset_colour
-    - text: "to\nBozai to get the sand boots. You've heard that\nthere's someone well acquainted with the \nseven heroines' legend in Gerudo Town."
+    - text: "\nto Bozai to get the sand boots. I've heard that\nthere's someone well acquainted with the \nseven heroines' legend in Gerudo Town."
   QL_Gerudo_Ch_SnowMT_Finish:
-    - text: "The eighth heroine is still worshiped by her\nfaithful in the Gerudo Highlands. You captured\nher in a picture and received the sand boots\nfrom Bozai as promised."
+    - text: "The eighth heroine is still worshiped by her\nfaithful in the Gerudo Highlands. I captured\nher in a picture and received the sand boots\nfrom Bozai as promised."
   QL_Gerudo_Ch_SnowMT_Name:
     - text: The Eighth Heroine

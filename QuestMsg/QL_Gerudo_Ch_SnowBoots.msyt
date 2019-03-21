@@ -22,7 +22,7 @@ entries:
     - text: Gerudo Highlands
     - control:
         kind: reset_colour
-    - text: ".\nShow a picture of the eighth heroine's sword to\nBozai to get the "
+    - text: ".\nI need to show a picture of the eighth heroine's\nsword to Bozai to get the "
     - control:
         kind: set_colour
         colour: red
@@ -31,6 +31,6 @@ entries:
         kind: reset_colour
     - text: "."
   QL_Gerudo_Ch_SnowBoots_Finish:
-    - text: "You found the eighth heroine's sword at the\nsummit of the Gerudo Highlands.\n\nYou took a picture of the sword, so Bozai kept\nhis promise and gave you the snow boots."
+    - text: "I found the eighth heroine's sword at the\nsummit of the Gerudo Highlands.\n\nI took a picture of the sword, so Bozai kept\nhis promise and gave me the snow boots."
   QL_Gerudo_Ch_SnowBoots_Name:
     - text: The Forgotten Sword

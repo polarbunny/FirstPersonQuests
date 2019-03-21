@@ -1,14 +1,14 @@
 ---
 entries:
   QL_GanonQuest_Desc:
-    - text: "The ghost of King Rhoam told you that\nHyrule is on the brink of annihilation.\n\nPrincess Zelda is currently fighting to contain\n"
+    - text: "The ghost of King Rhoam told me that\nHyrule is on the brink of annihilation.\n\nPrincess Zelda is currently fighting to contain\n"
     - control:
         kind: set_colour
         colour: red
     - text: Calamity Ganon
     - control:
         kind: reset_colour
-    - text: " inside Hyrule Castle, but her\npower cannot keep him at bay forever.\nEventually, Ganon will regain his full\nstrength and destroy the world.\n\nYour ultimate task is to aid Princess Zelda in\ndefeating Ganon before that can happen."
+    - text: " inside Hyrule Castle, but her\npower cannot keep him at bay forever.\nEventually, Ganon will regain his full\nstrength and destroy the world.\n\nMy ultimate task is to aid Princess Zelda in\ndefeating Ganon before that can happen."
   QL_GanonQuest_Finished:
     - control:
         kind: raw

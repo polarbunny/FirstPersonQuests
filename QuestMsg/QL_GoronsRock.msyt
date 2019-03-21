@@ -14,7 +14,7 @@ entries:
   QL_GoronsRock_Name:
     - text: "A Brother's Roast"
   QL_GoronsRock_Step005:
-    - text: "Now that Bladon knows what his brother\nGonguron was really up to, he wants you to\nfind and bring him a "
+    - text: "Now that Bladon knows what his brother\nGonguron was really up to, he wants me to\nfind and bring him a "
     - control:
         kind: set_colour
         colour: red
@@ -30,37 +30,37 @@ entries:
         kind: reset_colour
     - text: " can be found around Gortram Cliff,\ndown the hill ahead of Gorko Tunnel."
   QL_GoronsRock_Step010:
-    - text: "Now that Bladon knows what his brother\nGonguron was really up to, he wants you to\nfind and bring him a "
+    - text: "Now that Bladon knows what his brother\nGonguron was really up to, he wants me to\nfind and bring him a "
     - control:
         kind: set_colour
         colour: red
     - text: rock roast
     - control:
         kind: reset_colour
-    - text: ".\n\nBring a "
+    - text: ".\n\nWhen I'm able, I'll bring a "
     - control:
         kind: set_colour
         colour: red
     - text: "rock roast "
     - control:
         kind: reset_colour
-    - text: "to Bladon and his brother,\nwho are waiting at Gorko Tunnel."
+    - text: "to Bladon\nand his brother, who are waiting at\nGorko Tunnel."
   QL_GoronsRock_Step020:
-    - text: "Now that Bladon knows what his brother\nGonguron was really up to, he wants you to\nfind and bring him a "
+    - text: "Now that Bladon knows what his brother\nGonguron was really up to, he wants me to\nfind and bring him a "
     - control:
         kind: set_colour
         colour: red
     - text: rock roast
     - control:
         kind: reset_colour
-    - text: ".\n\nBring a "
+    - text: ".\n\nWhen I'm able, I'll bring a "
     - control:
         kind: set_colour
         colour: red
     - text: "rock roast "
     - control:
         kind: reset_colour
-    - text: "to Bladon and his brother,\nwho are waiting at Gorko Tunnel."
+    - text: "to Bladon\nand his brother, who are waiting at\nGorko Tunnel."
   QL_GoronsRock_Step030:
     - text: NOT USED * REPORT IF IT APPEARS
   QL_GoronsRock_Step040:

@@ -10,7 +10,7 @@ entries:
         kind: reset_colour
     - text: "."
   QL_Gerudo_tsukamidake_Finish:
-    - text: "You traded 55 rushrooms to Pirou at the\nGerudo Canyon Stable for a diamond.\n\nBut it seems he could still use more.\n\nIf you bring them, he'll pay "
+    - text: "I traded 55 rushrooms to Pirou at the\nGerudo Canyon Stable for a diamond.\n\nBut it seems he could still use more.\n\nIf I bring them, he'll pay "
     - control:
         kind: set_colour
         colour: red

@@ -1,7 +1,7 @@
 ---
 entries:
   QL_Threebros_giant_Desc:
-    - text: "The ancient spheres guarded by the\nMount Taran sentinels shall lead you to\nthe hero's trial.\n\nCould the "
+    - text: "The ancient spheres guarded by the\nMount Taran sentinels shall lead me to\nthe hero's trial.\n\nCould the "
     - control:
         kind: set_colour
         colour: red

@@ -10,7 +10,7 @@ entries:
         kind: reset_colour
     - text: "..."
   QL_TreasureHunt_touzoku03_Finish:
-    - text: "\"The green garments of the man who wished to\nbe a fairy are hidden in the ruins of Hyrule Field.\nFind these pieces at the ruins where trade\nflourished...at the ruins where sinners were\nimprisoned...and at the village ruins next to\nfarmland where many people once gathered.\"\n\nYou found the treasure that was hidden\nat Exchange Ruins, Castle Town Prison,\nand Mabe Village Ruins. You obtained\n"
+    - text: "\"The green garments of the man who wished to\nbe a fairy are hidden in the ruins of Hyrule Field.\nFind these pieces at the ruins where trade\nflourished...at the ruins where sinners were\nimprisoned...and at the village ruins next to\nfarmland where many people once gathered.\"\n\nI found the treasure that was hidden\nat Exchange Ruins, Castle Town Prison,\nand Mabe Village Ruins. I obtained\n"
     - control:
         kind: set_colour
         colour: red

@@ -8,7 +8,7 @@ entries:
     - text: treasure left by the ancients
     - control:
         kind: reset_colour
-    - text: ".\n\nKeep close watch for when the sandstorm\ndisappears, and then quickly hunt for the\ntreasure."
+    - text: ".\n\nI'll keep close watch for when the\nsandstorm disappears, and then quickly\nhunt for the treasure."
   QL_SandStorm_Finish:
     - text: "The treasure sleeping in the sandstorm visible\nfrom the Kara Kara Bazaar turned out to be an\nancient shrine.\n\nAll that is left now is to overcome the\nhero's trial within."
   QL_SandStorm_Name:

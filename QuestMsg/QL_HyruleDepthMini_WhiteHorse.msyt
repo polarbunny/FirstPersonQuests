@@ -1,7 +1,7 @@
 ---
 entries:
   QL_HyruleDepthMini_WhiteHorse_Desc:
-    - text: "Toffa at the Outskirt Stable asked you to find\nthe royal family's "
+    - text: "Toffa at the Outskirt Stable asked me to find\nthe royal family's "
     - control:
         kind: set_colour
         colour: red
@@ -17,14 +17,14 @@ entries:
         kind: reset_colour
     - text: "on\nSafula Hill that had a beautiful, spotless white\ncoat and stood apart from the rest of the herd."
   QL_HyruleDepthMini_WhiteHorse_Finish:
-    - text: "You showed the "
+    - text: "I showed the "
     - control:
         kind: set_colour
         colour: red
     - text: white horse
     - control:
         kind: reset_colour
-    - text: " to Toffa at\nOutskirt Stable. As thanks, he presented you\nwith a royal saddle and bridle.\n\nAccording to Toffa's grandfather, the sight\nof Princess Zelda at the reins of her "
+    - text: " to Toffa at\nOutskirt Stable. As thanks, he presented me\nwith a royal saddle and bridle.\n\nAccording to Toffa's grandfather, the sight\nof Princess Zelda at the reins of her "
     - control:
         kind: set_colour
         colour: red

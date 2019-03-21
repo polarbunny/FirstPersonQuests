@@ -8,15 +8,15 @@ entries:
     - text: "sword that seals the\ndarkness"
     - control:
         kind: reset_colour
-    - text: ", a weapon said to be capable of\nstriking down the Calamity.\n\nThough you came to claim the sword, the \nDeku Tree told you the blade would test you...\nAlthough you wielded it 100 years ago, can\nyou pull the sword out in your current state?"
+    - text: ", a weapon said to be capable of\nstriking down the Calamity.\n\nThough I came to claim the sword, the \nDeku Tree told me the blade would test me...\nAlthough I wielded it 100 years ago, can\nI pull the sword out in my current state?"
   QL_Get_MasterSword_Finish:
-    - text: "You've acquired the legendary "
+    - text: "I've acquired the legendary "
     - control:
         kind: set_colour
         colour: red
     - text: Master Sword
     - control:
         kind: reset_colour
-    - text: ",\nthat which seals the darkness. You feel that the\nsword itself delights to be in your possession...\n\nEven at this moment, Princess Zelda is within\nHyrule Castle, fighting to suppress the Calamity.\nShe endures, believing you will come for her...\n\nWill you be able to save her as you are now?"
+    - text: ",\nthat which seals the darkness. I feel that the\nsword itself delights to be in my possession...\n\nEven at this moment, Princess Zelda is within\nHyrule Castle, fighting to suppress the Calamity.\nShe endures, believing I will come for her...\n\nWill I be able to save her as I am now?"
   QL_Get_MasterSword_Name:
-    - text: "The Hero's Sword"
+    - text: "The Heroine's Sword"

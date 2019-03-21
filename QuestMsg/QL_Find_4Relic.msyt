@@ -36,7 +36,7 @@ entries:
     - text: "Divine Beast Vah Naboris "
     - control:
         kind: reset_colour
-    - text: "of the Gerudo\n\nThe elder of each race should know more.\n\nYou've beaten the phantom of Ganon haunting\none of the Divine Beasts. There are "
+    - text: "of the Gerudo\n\nThe elder of each race should know more.\n\nI've beaten the phantom of Ganon haunting\none of the Divine Beasts. There are "
     - control:
         kind: set_colour
         colour: red
@@ -80,7 +80,7 @@ entries:
     - text: "Divine Beast Vah Naboris "
     - control:
         kind: reset_colour
-    - text: "of the Gerudo\n\nThe elder of each race should know more.\n\nYou've beaten the phantoms of Ganon haunting\ntwo of the Divine Beasts. There are "
+    - text: "of the Gerudo\n\nThe elder of each race should know more.\n\nI've beaten the phantoms of Ganon haunting\ntwo of the Divine Beasts. There are "
     - control:
         kind: set_colour
         colour: red
@@ -124,7 +124,7 @@ entries:
     - text: "Divine Beast Vah Naboris "
     - control:
         kind: reset_colour
-    - text: "of the Gerudo\n\nThe elder of each race should know more.\n\nYou've beaten the phantoms of Ganon haunting\nthree of the Divine Beasts. There is "
+    - text: "of the Gerudo\n\nThe elder of each race should know more.\n\nI've beaten the phantoms of Ganon haunting\nthree of the Divine Beasts. There is "
     - control:
         kind: set_colour
         colour: red
@@ -168,14 +168,14 @@ entries:
     - text: "Divine Beast Vah Naboris "
     - control:
         kind: reset_colour
-    - text: "of the Gerudo\n\nYou've reclaimed the four "
+    - text: "of the Gerudo\n\nI've reclaimed the four "
     - control:
         kind: set_colour
         colour: red
     - text: Divine Beasts
     - control:
         kind: reset_colour
-    - text: "\nby defeating the four Ganon phantoms\nhaunting them. You should let Impa know\nof your success."
+    - text: "\nby defeating the four Ganon phantoms\nhaunting them. I should let Impa know\nof my success."
   QL_Find_4Relic_Desc:
     - text: "There are "
     - control:
@@ -249,14 +249,14 @@ entries:
     - text: "Divine Beast Vah Naboris "
     - control:
         kind: reset_colour
-    - text: "of the Gerudo\n\nYou've reclaimed the four "
+    - text: "of the Gerudo\n\nI've reclaimed the four "
     - control:
         kind: set_colour
         colour: red
     - text: Divine Beasts
     - control:
         kind: reset_colour
-    - text: "\nby defeating the four Ganon phantoms\nhaunting them. You are ready to face "
+    - text: "\nby defeating the four Ganon phantoms\nhaunting them. I'm ready to face "
     - control:
         kind: set_colour
         colour: red

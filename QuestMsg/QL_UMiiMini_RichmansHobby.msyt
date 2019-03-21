@@ -1,15 +1,15 @@
 ---
 entries:
   QL_UMiiMini_RichmansHobby_Desc:
-    - text: "Hagie in Tarrey Town asked you to defeat the\n"
+    - text: "Hagie in Tarrey Town asked me to defeat the\n"
     - control:
         kind: set_colour
         colour: red
     - text: two Guardians in Torin Wetland
     - control:
         kind: reset_colour
-    - text: " and then\nreport back to him.\n\nYou were paid in advance, so you're pretty\nmuch obligated to go through with it."
+    - text: " and then\nreport back to him.\n\nI was paid in advance, so I'm pretty\nmuch obligated to go through with it."
   QL_UMiiMini_RichmansHobby_Finish:
-    - text: "You defeated the two Guardians in\nTorin Wetland and reported back to\nHagie before night fell.\n\nThe reward was less than the up-front\npayment..."
+    - text: "I defeated the two Guardians in\nTorin Wetland and reported back to\nHagie before night fell.\n\nThe reward was less than the up-front\npayment..."
   QL_UMiiMini_RichmansHobby_Name:
     - text: Hobbies of the Rich

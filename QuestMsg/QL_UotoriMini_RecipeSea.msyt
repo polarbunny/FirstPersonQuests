@@ -1,7 +1,7 @@
 ---
 entries:
   QL_UotoriMini_RecipeSea_Desc:
-    - text: "Kiana lives in a family of fishermen in\nLurelin Village. She wants to cook her\nfamily's favorite meal, seafood paella,\nbut she's too busy with her daily errands\nand looking after her children to gather\nall the necessary ingredients.\n\nBe a sport and help her out by gathering\nthe ingredients for her. She needs\n"
+    - text: "Kiana lives in a family of fishermen in\nLurelin Village. She wants to cook her\nfamily's favorite meal, seafood paella,\nbut she's too busy with her daily errands\nand looking after her children to gather\nall the necessary ingredients.\n\nI feel I should help her out by gathering\nthe ingredients for her. She needs\n"
     - control:
         kind: set_colour
         colour: red
@@ -17,7 +17,7 @@ entries:
         kind: reset_colour
     - text: "\nto prepare the dish."
   QL_UotoriMini_RecipeSea_Finish:
-    - text: "You brought Kiana the goat butter and\nhearty blueshell snail required for cooking\nseafood paella. She shared some of the dish\nwith you as thanks!\n\n　　\t"
+    - text: "I brought Kiana the goat butter and\nhearty blueshell snail required for cooking\nseafood paella. She shared some of the dish\nwith me as thanks!\n\n　　\t"
     - control:
         kind: set_colour
         colour: red

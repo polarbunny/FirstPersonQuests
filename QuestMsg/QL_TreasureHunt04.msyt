@@ -10,7 +10,7 @@ entries:
         kind: reset_colour
     - text: " has a copy of\nSuper Rumor Mill EX, which details some\nrumors about this rare outfit."
   QL_TreasureHunt04_Finish:
-    - text: "You found the "
+    - text: "I found the "
     - control:
         kind: set_colour
         colour: red
@@ -21,7 +21,7 @@ entries:
   QL_TreasureHunt04_Name:
     - text: EX Royal Guard Rumors
   QL_TreasureHunt04_Step01:
-    - text: "You read Super Rumor Mill EX: Volume 4!\nAccording to this special issue, Hyrule Castle\nstill houses a uniform once belonging to the\nroyal guards who protected the royal family.\nIt can supposedly be found in treasure chests\nhidden near the "
+    - text: "I read Super Rumor Mill EX: Volume 4!\nAccording to this special issue, Hyrule Castle\nstill houses a uniform once belonging to the\nroyal guards who protected the royal family.\nIt can supposedly be found in treasure chests\nhidden near the "
     - control:
         kind: set_colour
         colour: red
@@ -42,7 +42,7 @@ entries:
     - text: second floor
     - control:
         kind: reset_colour
-    - text: ".\n\nIf you believe the rumors, try to find the\nhidden treasure!\nTreasure chests remaining: "
+    - text: ".\n\nIf I can believe the rumors, I should try to find the\nhidden treasure!\nTreasure chests remaining: "
     - control:
         kind: set_colour
         colour: red

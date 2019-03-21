@@ -1,7 +1,7 @@
 ---
 entries:
   QL_ZoraMini_ReliefSearch_Desc:
-    - text: "After hearing Jiahto's request, you agreed to\nsearch for the "
+    - text: "After hearing Jiahto's request, I agreed to\nsearch for the "
     - control:
         kind: set_colour
         colour: red
@@ -17,11 +17,11 @@ entries:
         kind: reset_colour
     - text: " in total."
   QL_ZoraMini_ReliefSearch_Finish:
-    - text: "You found all ten stone monuments and\nreported back to Jiahto.\n\nJiahto will benefit greatly from this."
+    - text: "I found all ten stone monuments and\nreported back to Jiahto.\n\nJiahto will benefit greatly from this."
   QL_ZoraMini_ReliefSearch_Name:
     - text: Zora Stone Monuments
   QL_ZoraMini_ReliefSearch_SearchRelief:
-    - text: "You searched the area surrounding Zora's\nDomain high and low and found all ten\nstone monuments.\n\nReport your findings to "
+    - text: "I searched the area surrounding Zora's\nDomain high and low and found all ten\nstone monuments.\n\nNow to report my findings to "
     - control:
         kind: set_colour
         colour: red

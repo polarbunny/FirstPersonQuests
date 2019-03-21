@@ -8,9 +8,9 @@ entries:
     - text: "monsters "
     - control:
         kind: reset_colour
-    - text: "have built an\nencampment right on Aris Beach—the best\nfishing spot for miles around.\n\nDefeat the monsters on the beach so the village\ncan resume its regular fishing."
+    - text: "have built an\nencampment right on Aris Beach—the best\nfishing spot for miles around.\n\nI have to defeat the monsters on the beach\nso the village can resume its regular fishing."
   QL_UotoriMini_RecoverBay_Exterminate:
-    - text: "You defeated all the monsters occupying the\nencampment on Aris Beach!\n\nGo tell Sebasto the good news."
+    - text: "I defeated all the monsters occupying the\nencampment on Aris Beach!\n\nNow to go tell Sebasto the good news."
   QL_UotoriMini_RecoverBay_Finish:
     - text: "The monsters that once occupied the\nencampment on Aris Beach have been\ndispatched, and the village's regular\nfishing operations have resumed."
   QL_UotoriMini_RecoverBay_Name:

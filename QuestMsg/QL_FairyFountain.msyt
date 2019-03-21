@@ -8,9 +8,9 @@ entries:
     - text: Great Fairy Fountain
     - control:
         kind: reset_colour
-    - text: " behind Kakariko Village,\nbut all of his efforts to search for it have been\nstymied.\n\nIf you find the fountain, surely Pikango would\nappreciate proof of its location."
+    - text: " behind Kakariko Village,\nbut all of his efforts to search for it have been\nstymied.\n\nIf I find the fountain, surely Pikango would\nappreciate proof of its location."
   QL_FairyFountain_Finish:
-    - text: "You took a "
+    - text: "I took a "
     - control:
         kind: set_colour
         colour: red

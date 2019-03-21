@@ -1,21 +1,21 @@
 ---
 entries:
   QL_SanrokuMini_Lizard_Desc:
-    - text: "Kima at the Southern Mine has asked you to\ncatch ten of the "
+    - text: "Kima at the Southern Mine has asked me to\ncatch ten of the "
     - control:
         kind: set_colour
         colour: red
     - text: "fireproof lizards "
     - control:
         kind: reset_colour
-    - text: "found on\nDeath Mountain near the Southern Mine.\n\nGo get "
+    - text: "found on\nDeath Mountain near the Southern Mine.\n\nI need to get "
     - control:
         kind: set_colour
         colour: red
     - text: 10 fireproof lizards
     - control:
         kind: reset_colour
-    - text: ", and take them\nto Kima."
+    - text: ", and take\nthem to Kima."
   QL_SanrokuMini_Lizard_Finish:
     - text: "As thanks for the "
     - control:
@@ -24,7 +24,7 @@ entries:
     - text: 10 fireproof lizards
     - control:
         kind: reset_colour
-    - text: ",\nKima gave you his flamebreaker armor!\n\nNot only that, but Kima will pay you "
+    - text: ",\nKima gave me his flamebreaker armor!\n\nNot only that, but Kima will pay me "
     - control:
         kind: set_colour
         colour: red
@@ -45,6 +45,6 @@ entries:
     - text: fireproof lizards
     - control:
         kind: reset_colour
-    - text: " you bring him."
+    - text: " I bring him."
   QL_SanrokuMini_Lizard_Name:
     - text: Fireproof Lizard Roundup

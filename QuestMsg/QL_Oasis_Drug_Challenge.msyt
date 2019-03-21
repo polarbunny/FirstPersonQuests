@@ -22,7 +22,7 @@ entries:
     - text: monster parts
     - control:
         kind: reset_colour
-    - text: ". You'll find\nthe bug in question in the "
+    - text: ". I'll find\nthe bug in question in the "
     - control:
         kind: set_colour
         colour: red
@@ -31,6 +31,6 @@ entries:
         kind: reset_colour
     - text: "."
   QL_Oasis_Drug_Challenge_Finish:
-    - text: "You made a cooling elixir by combining a\nchilling insect with monster parts. Guy\nappreciated what you did for him.\n\nYour knowledge of the ingredients for a\ncooling elixir could come in handy later."
+    - text: "I made a cooling elixir by combining a\nchilling insect with monster parts. Guy\nappreciated what I did for him.\n\nMy knowledge of the ingredients for a\ncooling elixir could come in handy later."
   QL_Oasis_Drug_Challenge_Name:
     - text: An Ice Guy

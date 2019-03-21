@@ -1,9 +1,9 @@
 ---
 entries:
   QL_Gaman_Desc:
-    - text: "The Goron Blood Brothers have challenged\nyou to a test of will.\n\nThe rules are simple... The challenger who can\nhandle the intense heat within the ring for the\nlongest without leaving the ring is the winner.\n\nThey say that's all there is to it, but..."
+    - text: "The Goron Blood Brothers have challenged\nme to a test of will.\n\nThe rules are simple... The challenger who can\nhandle the intense heat within the ring for the\nlongest without leaving is the winner.\n\nThey say that's all there is to it, but..."
   QL_Gaman_Finish:
-    - text: "After you endured the heated test,\na shrine suddenly appeared.\n\n\""
+    - text: "After I endured the heated test,\na shrine suddenly appeared.\n\n\""
     - control:
         kind: raw
         zero:
@@ -23,7 +23,7 @@ entries:
   QL_Gaman_Name:
     - text: Test of Will
   QL_Gaman_Step1:
-    - text: "\"A true Goron has a barrel for a chest and a\nheart the size of his biceps.\n\nGearing up accordingly and having your hearts\nfilled up before competing is key, brother!\"\n-Bayge"
+    - text: "\"A true Goron has a barrel for a chest and a\nheart the size of his biceps.\n\nGearing up accordingly and having your wits\nabout you before competing is key, brother!\"\n-Bayge"
   QL_Gaman_Step1_2:
     - control:
         kind: raw
@@ -280,7 +280,7 @@ entries:
             field_3: 8
     - text: しっぱい失敗した
   QL_Gaman_Step1_2_Successed:
-    - text: "You've been challenged to an even hotter\ntest of will.\n\nThe three brothers admitted defeat before, but\nthis time you'll have to make sure you've got\nsome serious heat resistance if you want\nto match their will in the scorching ring."
+    - text: "I've been challenged to an even hotter\ntest of will.\n\nThe three brothers admitted defeat before, but\nthis time I'll have to make sure I've got\nsome serious heat resistance if I want\nto match their will in the scorching ring."
   QL_Gaman_Step2:
     - text: "\"A true Goron needs mental fortitude,\nphysical fortitude, and spiritual fortitude.\n\nThis next test is beyond anything anyone\nhas ever attempted. You've worked out how\nto protect against heat...right, brother?\"\n-Heehl"
   QL_Gaman_Step2_10: []

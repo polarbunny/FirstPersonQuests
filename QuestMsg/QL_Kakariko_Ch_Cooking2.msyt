@@ -10,7 +10,7 @@ entries:
         kind: reset_colour
     - text: "\nhad her stymied."
   QL_Kakariko_Ch_Cooking2_Finish:
-    - text: "Koko heated up the pot in an attempt to make\nhot buttered apples, but the lack of goat butter\nhad her stymied.\nYou provided some goat butter, and the dish\nwas saved.\n\n　　\t"
+    - text: "Koko heated up the pot in an attempt to make\nhot buttered apples, but the lack of goat butter\nhad her stymied.\nI provided some goat butter, and the dish\nwas saved.\n\n　　\t"
     - control:
         kind: set_colour
         colour: red

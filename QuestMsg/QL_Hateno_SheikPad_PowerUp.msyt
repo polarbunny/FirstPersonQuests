@@ -1,7 +1,7 @@
 ---
 entries:
   QL_Hateno_SheikPad_PowerUp_Desc:
-    - text: "Purah has offered to help you out in exchange\nfor some "
+    - text: "Purah has offered to help me out in exchange\nfor some "
     - control:
         kind: set_colour
         colour: red
@@ -15,16 +15,16 @@ entries:
     - text: Robbie
     - control:
         kind: reset_colour
-    - text: "? You'll have to ask Purah\nfor the answers."
+    - text: "? I'll have to ask Purah\nfor the answers."
   QL_Hateno_SheikPad_PowerUp_Explain:
-    - text: "If you provide Purah with "
+    - text: "If I provide Purah with "
     - control:
         kind: set_colour
         colour: red
     - text: ancient components
     - control:
         kind: reset_colour
-    - text: ",\nshe can use them to strengthen your runes.\n\nThe Sheikah Sensor takes "
+    - text: ",\nshe can use them to strengthen my runes.\n\nThe Sheikah Sensor takes "
     - control:
         kind: set_colour
         colour: red
@@ -47,6 +47,6 @@ entries:
         kind: reset_colour
     - text: "."
   QL_Hateno_SheikPad_PowerUp_Finish:
-    - text: "Purah powered up your Sheikah Sensor,\nRemote Bombs, and Stasis!\n\nPurah claims that she's now pushed your\nrunes as far as they can go."
+    - text: "Purah powered up my Sheikah Sensor,\nRemote Bombs, and Stasis!\n\nPurah claims that she's now pushed my\nrunes as far as they can go."
   QL_Hateno_SheikPad_PowerUp_Name:
     - text: Slated for Upgrades

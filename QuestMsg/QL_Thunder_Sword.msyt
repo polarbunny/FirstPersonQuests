@@ -14,7 +14,7 @@ entries:
     - text: " "
     - control:
         kind: reset_colour
-    - text: "on high.\"\n\nSolve the riddle of the song you learned from\nKass and seek out the hero's trial."
+    - text: "on high.\"\n\nI must solve the riddle of the song I learned from\nKass and seek out the hero's trial."
   QL_Thunder_Sword_Finish:
     - text: "\"When a lost hero calls down lightning"
     - control:
@@ -29,7 +29,7 @@ entries:
     - text: " "
     - control:
         kind: reset_colour
-    - text: "on high.\"\n\nYou found an ancient shrine inside the rock \nthat you shattered with lightning!"
+    - text: "on high.\"\n\nI found an ancient shrine inside the rock \nthat I shattered with lightning!"
   QL_Thunder_Sword_Name:
     - text: A Song of Storms
   QL_Thunder_Sword_Step010:
@@ -46,4 +46,4 @@ entries:
     - text: " "
     - control:
         kind: reset_colour
-    - text: "on high.\"\n\nBy attracting a lightning strike, you shattered\nthe large rock and revealed an ancient shrine\nconcealed within."
+    - text: "on high.\"\n\nBy attracting a lightning strike, I shattered\nthe large rock and revealed an ancient shrine\nconcealed within."

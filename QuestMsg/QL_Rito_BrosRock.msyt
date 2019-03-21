@@ -1,7 +1,7 @@
 ---
 entries:
   QL_Rito_BrosRock_Desc:
-    - text: "Kheel, youngest of the five sisters inhabiting\nRito Village, is furious that her sisters haven't\nshown up for singing practice.\n\nGo and find her eldest sister, Notts, second-\neldest sister, Kotts, third-eldest sister, Genli,\nand fourth-eldest sister, Cree,"
+    - text: "Kheel, youngest of the five sisters inhabiting\nRito Village, is furious that her sisters haven't\nshown up for singing practice.\n\nI'm to find her eldest sister, Notts, second-\neldest sister, Kotts, third-eldest sister, Genli,\nand fourth-eldest sister, Cree,"
     - control:
         kind: set_colour
         colour: blue
@@ -16,11 +16,11 @@ entries:
         kind: reset_colour
     - text: ", and tell them to meet Kheel."
   QL_Rito_BrosRock_Finish:
-    - text: "You solved the mystery behind the Rito Village\nsong and Warbler's Nest, uncovering an\nancient shrine in the process!\n\nThe sisters, thrilled to practice their songs\nand find a secret, went back to Rito Village."
+    - text: "I solved the mystery behind the Rito Village\nsong and Warbler's Nest, uncovering an\nancient shrine in the process!\n\nThe sisters, thrilled to practice their songs\nand find a secret, went back to Rito Village."
   QL_Rito_BrosRock_Name:
     - text: "Recital at Warbler's Nest"
   QL_Rito_BrosRock_Rito_BrosRock_Step1:
-    - text: "You made salmon meunière for Genli,\nimproving her mood considerably.\n\nGo check on her sisters, who went to\n"
+    - text: "I made salmon meunière for Genli,\nimproving her mood considerably.\n\nNow to check on her sisters, who went to\n"
     - control:
         kind: set_colour
         colour: red

@@ -1,14 +1,14 @@
 ---
 entries:
   QL_HatenoMini_DevilSeal_Desc:
-    - text: "The horned statue in Hateno Village told you\nto increase either your "
+    - text: "The horned statue in Hateno Village told me\nto increase either my "
     - control:
         kind: set_colour
         colour: red
     - text: Heart Containers
     - control:
         kind: reset_colour
-    - text: " or\nyour "
+    - text: " or\nmy "
     - control:
         kind: set_colour
         colour: red
@@ -17,9 +17,9 @@ entries:
         kind: reset_colour
     - text: by one and come back.
   QL_HatenoMini_DevilSeal_Finish:
-    - text: "You persuaded the horned statue to return your\ncontainer. Now you can exchange containers\nfor a small cost.\n\nThe horned statue will buy a Heart Container or\nStamina Vessel for 100 rupees and sell your\nchoice afterward for 120 rupees."
+    - text: "I persuaded the horned statue to return my\ncontainer. Now I can exchange containers\nfor a small cost.\n\nThe horned statue will buy a Heart Container or\nStamina Vessel for 100 rupees and sell my\nchoice afterward for 120 rupees."
   QL_HatenoMini_DevilSeal_GiveUtsuwa:
-    - text: "The horned statue in Hateno Village took one\nof your containers!\n\nThe only thing to do is "
+    - text: "The horned statue in Hateno Village took one\nof my containers!\n\nThe only thing to do is "
     - control:
         kind: set_colour
         colour: red

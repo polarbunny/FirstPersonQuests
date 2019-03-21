@@ -1,7 +1,7 @@
 ---
 entries:
   QL_FironeMini_HeartPond_Desc:
-    - text: "Wabbin has fallen for a Gerudo woman, but he\ncan't work up the courage to talk to her. He's\nasked that you bring him some "
+    - text: "Wabbin has fallen for a Gerudo woman, but he\ncan't work up the courage to talk to her. He's\nasked that I bring him some "
     - control:
         kind: set_colour
         colour: red
@@ -12,7 +12,7 @@ entries:
   QL_FironeMini_HeartPond_Finish:
     - text: "It turns out that while Wabbin was working up\nthe nerve to talk to Perda, she'd been waiting\nfor him to approach her! The confession of\nlove wasn't exactly ideal, but at least the\nsoul mates are both finally talking."
   QL_FironeMini_HeartPond_GetFlower:
-    - text: "You brought "
+    - text: "I brought "
     - control:
         kind: set_colour
         colour: red
@@ -26,18 +26,18 @@ entries:
     - text: blue nightshade
     - control:
         kind: reset_colour
-    - text: " would help him break the ice,\nbut he's so nervous he can't even move.\n\nWabbin has asked that you give the\n"
+    - text: " would help him break the ice,\nbut he's so nervous he can't even move.\n\nWabbin has asked that I give the\n"
     - control:
         kind: set_colour
         colour: red
     - text: blue nightshade
     - control:
         kind: reset_colour
-    - text: " to the woman on his behalf."
+    - text: " to Perda on his behalf."
   QL_FironeMini_HeartPond_Name:
     - text: A Gift of Nightshade
   QL_FironeMini_HeartPond_PresentFlower:
-    - text: "You gave Perda the "
+    - text: "I gave Perda the "
     - control:
         kind: set_colour
         colour: red

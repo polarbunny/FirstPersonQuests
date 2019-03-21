@@ -8,22 +8,22 @@ entries:
     - text: baked apple
     - control:
         kind: reset_colour
-    - text: ", her favorite snack,\nis one way to lighten the mood.\n\nBring Juney a "
+    - text: ", her favorite snack,\nis one way to lighten the mood.\n\nBringing Juney a "
     - control:
         kind: set_colour
         colour: red
     - text: baked apple
     - control:
         kind: reset_colour
-    - text: " and save\nher marriage!"
+    - text: " could possibly\nsave her marriage!"
   QL_RitoMini_Cook_Finish:
-    - text: "You gave Juney, currently honeymooning in\nRito Village, a baked apple. She was so\ngrateful that she paid you a few rupees for\nthe service.\n\nJuney told you that she'll never turn down\na "
+    - text: "I gave Juney, currently honeymooning in\nRito Village, a baked apple. She was so\ngrateful that she paid me a few rupees for\nthe service.\n\nJuney told me that she'll never turn down\na "
     - control:
         kind: set_colour
         colour: red
     - text: baked apple
     - control:
         kind: reset_colour
-    - text: ". If you gather any more,\nbring them directly to her!"
+    - text: ". If I gather any more, I\nshould bring them directly to her!"
   QL_RitoMini_Cook_Name:
     - text: The Apple of My Eye

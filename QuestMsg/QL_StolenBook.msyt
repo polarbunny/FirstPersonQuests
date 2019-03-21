@@ -1,7 +1,7 @@
 ---
 entries:
   QL_StolenBook_Desc:
-    - text: "The heirloom at Impa's manor has been stolen.\nDorian and Cado, the manor's gatekeepers,\nsay that it should have been impossible to\nsteal with Paya keeping close watch over it all\nday long.\n\nYour best lead so far is the rumors circulating\nabout suspicious figures seen lately at "
+    - text: "The heirloom at Impa's manor has been stolen.\nDorian and Cado, the manor's gatekeepers,\nsay that it should have been impossible to\nsteal with Paya keeping close watch over it all\nday long.\n\nMy best lead so far is the rumors circulating\nabout suspicious figures seen lately at "
     - control:
         kind: set_colour
         colour: red
@@ -10,6 +10,6 @@ entries:
         kind: reset_colour
     - text: "."
   QL_StolenBook_Finish:
-    - text: "It turned out that the heirloom thieves who\nstruck Impa's manor belonged to the Yiga Clan.\nThe incident was revenge for Dorian attempting\nto leave the guild of assassins.\n\nAfter you solved the problem, you returned the\nheirloom and discovered a new ancient shrine."
+    - text: "It turned out that the heirloom thieves who\nstruck Impa's manor belonged to the Yiga Clan.\nThe incident was revenge for Dorian attempting\nto leave the guild of assassins.\n\nAfter I solved the problem, I returned the\nheirloom and discovered a new ancient shrine."
   QL_StolenBook_Name:
     - text: The Stolen Heirloom

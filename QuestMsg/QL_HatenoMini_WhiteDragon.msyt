@@ -1,7 +1,7 @@
 ---
 entries:
   QL_HatenoMini_WhiteDragon_Desc:
-    - text: "Medda, a resident of Hateno Village, told you\nthat there is a "
+    - text: "Medda, a resident of Hateno Village, told me\nthat there is a "
     - control:
         kind: set_colour
         colour: red
@@ -17,7 +17,7 @@ entries:
         kind: reset_colour
     - text: "."
   QL_HatenoMini_WhiteDragon_Finish:
-    - text: "When you tossed "
+    - text: "When I tossed "
     - control:
         kind: set_colour
         colour: red
@@ -28,7 +28,7 @@ entries:
   QL_HatenoMini_WhiteDragon_Name:
     - text: The Spring of Wisdom
   QL_HatenoMini_WhiteDragon_Play:
-    - text: "You freed "
+    - text: "I freed "
     - control:
         kind: set_colour
         colour: red
@@ -51,14 +51,14 @@ entries:
         kind: reset_colour
     - text: "."
   QL_HatenoMini_WhiteDragon_Step1:
-    - text: "You found no treasure but instead discovered\n"
+    - text: "I found no treasure but instead discovered\n"
     - control:
         kind: set_colour
         colour: red
     - text: Naydra
     - control:
         kind: reset_colour
-    - text: ", the Spring of Wisdom's guardian spirit,\nwho has been overtaken by darkness.\n\nBreak through the evil force possessing "
+    - text: ", the Spring of Wisdom's guardian spirit,\nwho has been overtaken by darkness.\n\nI must break through the evil force possessing\n "
     - control:
         kind: set_colour
         colour: red

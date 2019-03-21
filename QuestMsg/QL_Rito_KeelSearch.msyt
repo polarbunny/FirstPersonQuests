@@ -8,13 +8,13 @@ entries:
     - text: "Warbler's Nest"
     - control:
         kind: reset_colour
-    - text: " alone.\nFind Kheel and quell a worried mother's fears."
+    - text: " alone.\nI'll find Kheel and quell a worried mother's fears."
   QL_Rito_KeelSearch_Finish:
-    - text: "Amali was relieved to hear that Kheel was only\npracticing her singing at Warbler's Nest.\n\nNow that you've assured her mother, Kheel\nhas a favor for you as well."
+    - text: "Amali was relieved to hear that Kheel was only\npracticing her singing at Warbler's Nest.\n\nNow that I've assured her mother, Kheel\nhas a favor for me as well."
   QL_Rito_KeelSearch_Name:
     - text: Find Kheel
   QL_Rito_KeelSearch_Step1:
-    - text: "Kheel was at Warbler's Nest practicing a song.\nLet "
+    - text: "Kheel was at Warbler's Nest practicing a song.\nI need to let "
     - control:
         kind: set_colour
         colour: red

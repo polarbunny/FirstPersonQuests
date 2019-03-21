@@ -1,7 +1,7 @@
 ---
 entries:
   QL_Giant_ZoraMini_Desc:
-    - text: "Torfeau of Zora's Domain tasked you with\nhunting a "
+    - text: "Torfeau of Zora's Domain tasked me with\nhunting a "
     - control:
         kind: set_colour
         colour: red
@@ -17,15 +17,15 @@ entries:
         kind: reset_colour
     - text: "."
   QL_Giant_ZoraMini_Finish:
-    - text: "You defeated the Hinox at Ralis Pond and\nreported it to Torfeau, who praised you."
+    - text: "I defeated the Hinox at Ralis Pond and\nreported it to Torfeau, who praised me."
   QL_Giant_ZoraMini_Name:
     - text: The Giant of Ralis Pond
   QL_Giant_ZoraMini_Step1:
-    - text: "You successfully defeated the Hinox at \nRalis Pond.\n\nGo report back to "
+    - text: "I successfully defeated the Hinox at \nRalis Pond.\n\nI need to report back to "
     - control:
         kind: set_colour
         colour: red
     - text: Torfeau
     - control:
         kind: reset_colour
-    - text: " in Zora's Domain."
+    - text: " in\nZora's Domain."

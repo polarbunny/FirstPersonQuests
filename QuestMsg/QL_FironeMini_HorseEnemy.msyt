@@ -3,7 +3,7 @@ entries:
   QL_FironeMini_HorseEnemy_Desc:
     - text: "Faron Grasslands is known for its horses.\n\nHowever, a gang of heathens has taken over\nthe area lately. This has caused Perosa and the\nother residents some strife.\n\nIf someone were willing to take on this group of\nhoodlums, it would definitely cheer up Perosa."
   QL_FironeMini_HorseEnemy_Exterminate:
-    - text: "You defeated all the "
+    - text: "I defeated all the "
     - control:
         kind: set_colour
         colour: red
@@ -19,7 +19,7 @@ entries:
         kind: reset_colour
     - text: "causing\ntrouble in the grasslands!\n\nPerosa will surely be happy to hear the news!"
   QL_FironeMini_HorseEnemy_Finish:
-    - text: "You defeated all the "
+    - text: "I defeated all the "
     - control:
         kind: set_colour
         colour: red
@@ -33,6 +33,6 @@ entries:
     - text: "members "
     - control:
         kind: reset_colour
-    - text: "causing\ntrouble in the grasslands!\n\nPerosa was so happy with the news, she gave\nyou an endura carrot as a reward for your\nhard work.\n\nIt's said that horses are quite fond of those..."
+    - text: "causing\ntrouble in the grasslands!\n\nPerosa was so happy with the news, she gave\nme an endura carrot as a reward for my\nhard work.\n\nIt's said that horses are quite fond of those..."
   QL_FironeMini_HorseEnemy_Name:
     - text: "The Horseback Hoodlums "

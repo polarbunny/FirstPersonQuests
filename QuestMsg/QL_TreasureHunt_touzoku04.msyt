@@ -10,7 +10,7 @@ entries:
         kind: reset_colour
     - text: "..."
   QL_TreasureHunt_touzoku04_Finish:
-    - text: "\"Armor worn by fierce phantoms, feared even by\nheroes, is hidden in the ruins of Hyrule Field.\nFind these pieces at a battleground where brave\nsouls tested their skill...at ceremonial grounds\nwhere royal guards are honored...and at the\nruins where the soldiers of Hyrule gathered.\"\n\nYou found the treasure that was hidden at\nColiseum Ruins, Sacred Ground Ruins,\nand Hyrule Garrison Ruins. You obtained\nthe "
+    - text: "\"Armor worn by fierce phantoms, feared even by\nheroes, is hidden in the ruins of Hyrule Field.\nFind these pieces at a battleground where brave\nsouls tested their skill...at ceremonial grounds\nwhere royal guards are honored...and at the\nruins where the soldiers of Hyrule gathered.\"\n\nI found the treasure that was hidden at\nColiseum Ruins, Sacred Ground Ruins,\nand Hyrule Garrison Ruins. I've obtained\nthe "
     - control:
         kind: set_colour
         colour: red

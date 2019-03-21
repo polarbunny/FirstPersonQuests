@@ -1,7 +1,7 @@
 ---
 entries:
   QL_MarittaMini_BigWhales_Desc:
-    - text: "Akrah at the Serenne Stable asked you to\nget a visual record of the leviathan bones.\nThe record need not have the whole\nskeleton in it, so long as the skull is visible.\n\nLeviathan bones are apparently found\nin Eldin to the northeast, Hebra to the\nnorthwest, and Gerudo"
+    - text: "Akrah at the Serenne Stable asked me to\nget a visual record of the leviathan bones.\nThe record need not have the whole\nskeleton in it, so long as the skull is visible.\n\nLeviathan bones are apparently found\nin Eldin to the northeast, Hebra to the\nnorthwest, and Gerudo"
     - control:
         kind: set_colour
         colour: blue
@@ -10,7 +10,7 @@ entries:
         kind: reset_colour
     - text: to the southwest.
   QL_MarittaMini_BigWhales_Finish:
-    - text: "You took pictures of the leviathan bones in\nEldin, Hebra, and Gerudo. As thanks for\nadvancing the cause of paleontology, Akrah\ngave you "
+    - text: "I took pictures of the leviathan bones in\nEldin, Hebra, and Gerudo. As thanks for\nadvancing the cause of paleontology, Akrah\ngave me "
     - control:
         kind: set_colour
         colour: red

@@ -10,13 +10,13 @@ entries:
         kind: reset_colour
     - text: ".\nParcy, a traveler at the stable, wants nothing\nmore than to see one of them.\n\nHowever, the castle is a dangerous place\nnowadays, and ordinary folk risk their lives\ngetting close..."
   QL_RiversideMini_CastleWeapon_Finish:
-    - text: "Though Hyrule Castle was destroyed 100 years\nago, you ventured inside and found part of the\n"
+    - text: "Though Hyrule Castle was destroyed 100 years\nago, I ventured inside and found part of the\n"
     - control:
         kind: set_colour
         colour: red
     - text: "royal guard's series"
     - control:
         kind: reset_colour
-    - text: ", famous among equipment\ncollectors.\n\nWhen you showed Parcy, the traveler at the\nstable, she seemed to be more curious about\nit than ever. Hopefully she won't do\nanything reckless..."
+    - text: ", famous among equipment\ncollectors.\n\nWhen I showed Parcy, the traveler at the\nstable, she seemed to be more curious about\nit than ever. Hopefully she won't do\nanything reckless..."
   QL_RiversideMini_CastleWeapon_Name:
     - text: "The Royal Guard's Gear"

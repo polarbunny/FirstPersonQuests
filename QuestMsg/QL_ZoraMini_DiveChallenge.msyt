@@ -1,7 +1,7 @@
 ---
 entries:
   QL_ZoraMini_DiveChallenge_Desc:
-    - text: "Gruve wants to see a beautiful dive and asked\nyou to perform one.\n\nEveryone knows a feetfirst dive isn't all that\nbeautiful, so "
+    - text: "Gruve wants to see a beautiful dive and asked\nme to perform one.\n\nEveryone knows a feetfirst dive isn't all that\nbeautiful, so I'll "
     - control:
         kind: set_colour
         colour: red
@@ -10,11 +10,11 @@ entries:
         kind: reset_colour
     - text: "."
   QL_ZoraMini_DiveChallenge_Finish:
-    - text: "Your diving and waterfall climbing was so\nbeautiful you made Gruve's very soul flutter\nwith a mighty vigor."
+    - text: "My diving and waterfall climbing was so\nbeautiful I made Gruve's very soul flutter\nwith a mighty vigor."
   QL_ZoraMini_DiveChallenge_Name:
     - text: Diving is Beauty!
   QL_ZoraMini_DiveChallenge_Step1:
-    - text: "You performed a beautiful dive, and Gruve was\nmost pleased, but now he wants to see you\n"
+    - text: "I performed a beautiful dive, and Gruve was\nmost pleased, but now he wants to see me\n"
     - control:
         kind: set_colour
         colour: red
@@ -23,11 +23,11 @@ entries:
         kind: reset_colour
     - text: "."
   QL_ZoraMini_DiveChallenge_Step2:
-    - text: "You climbed the waterfall as requested, and\nGruve was simply blown away.\n\nPay "
+    - text: "I climbed the waterfall as requested, and\nGruve was simply blown away.\n\nNow to pay "
     - control:
         kind: set_colour
         colour: red
     - text: Gruve
     - control:
         kind: reset_colour
-    - text: " a visit to hear his final assessment."
+    - text: " a visit to hear his\nfinal assessment."

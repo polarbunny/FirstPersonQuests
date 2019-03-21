@@ -1,7 +1,7 @@
 ---
 entries:
   QL_GoronCityMini_BeatGolem_Beated:
-    - text: "You defeated the "
+    - text: "I defeated the "
     - control:
         kind: set_colour
         colour: red
@@ -15,7 +15,7 @@ entries:
     - text: Darunia Lake
     - control:
         kind: reset_colour
-    - text: "!\nGo and tell Fugo!"
+    - text: "!\nNow to go and tell Fugo!"
   QL_GoronCityMini_BeatGolem_Desc:
     - text: "Fugo needs to defeat the "
     - control:
@@ -40,7 +40,7 @@ entries:
         kind: reset_colour
     - text: in his stead.
   QL_GoronCityMini_BeatGolem_Finish:
-    - text: "You defeated the Igneo Talus at Darunia Lake\nand reported back to Fugo. In return, he gave\nyou "
+    - text: "I defeated the Igneo Talus at Darunia Lake\nand reported back to Fugo. In return, he gave\nme "
     - control:
         kind: set_colour
         colour: red

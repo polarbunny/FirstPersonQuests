@@ -1,7 +1,7 @@
 ---
 entries:
   QL_ZoraMini_HarvestingStone_Desc:
-    - text: "Ledo asked you to bring him "
+    - text: "Ledo asked me to bring him "
     - control:
         kind: set_colour
         colour: red
@@ -17,6 +17,6 @@ entries:
         kind: reset_colour
     - text: "\nwhere they're pretty common."
   QL_ZoraMini_HarvestingStone_Finish:
-    - text: "You gave Ledo 10 luminous stones to aid in\nthe repairs to Zora's Domain."
+    - text: "I gave Ledo 10 luminous stones to aid in\nthe repairs to Zora's Domain."
   QL_ZoraMini_HarvestingStone_Name:
     - text: Luminous Stone Gathering

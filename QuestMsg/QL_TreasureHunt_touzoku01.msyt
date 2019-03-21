@@ -10,7 +10,7 @@ entries:
         kind: reset_colour
     - text: "..."
   QL_TreasureHunt_touzoku01_Finish:
-    - text: "\"The ancient mask lies at the ruins where\nsoldiers gathered. From there, the waters\nof Lake Kolomo are visible.\"\n\nYou found the treasure that was hidden\nat Kolomo Garrison Ruins and obtained\n"
+    - text: "\"The ancient mask lies at the ruins where\nsoldiers gathered. From there, the waters\nof Lake Kolomo are visible.\"\n\nI found the treasure that was hidden\nat Kolomo Garrison Ruins and obtained\n"
     - control:
         kind: set_colour
         colour: red

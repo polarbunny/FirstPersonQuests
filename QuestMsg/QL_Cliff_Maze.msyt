@@ -1,7 +1,7 @@
 ---
 entries:
   QL_Cliff_Maze_Desc:
-    - text: "Upon reaching the ruins in northeast\nTabantha Tundra, you were greeted by a\nmysterious voice.\n\nIt told you that you would receive a blessing if\nyou were able to "
+    - text: "Upon reaching the ruins in northeast\nTabantha Tundra, I was greeted by a\nmysterious voice.\n\nIt told me that I would receive a blessing if\nI were able to "
     - control:
         kind: set_colour
         colour: red

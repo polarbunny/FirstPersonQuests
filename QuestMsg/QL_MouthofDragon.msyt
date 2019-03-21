@@ -15,7 +15,7 @@ entries:
     - text: " shrine"
     - control:
         kind: reset_colour
-    - text: " sleeps with noble cause.\"\n\nYour task is to decipher its riddle."
+    - text: " sleeps with noble cause.\"\n\nMy task is to decipher its riddle."
   QL_MouthofDragon_Finish:
     - text: "\"Offer "
     - control:
@@ -24,7 +24,7 @@ entries:
     - text: "Farosh's scale"
     - control:
         kind: reset_colour
-    - text: " received from the\ngolden spirit to the Spring of Courage.\"\n\nJust as the Goddess instructed, you threw\n"
+    - text: " received from the\ngolden spirit to the Spring of Courage.\"\n\nJust as the Goddess instructed, I threw\n"
     - control:
         kind: set_colour
         colour: red
@@ -35,7 +35,7 @@ entries:
   QL_MouthofDragon_Name:
     - text: "The Serpent's Jaws"
   QL_MouthofDragon_Step1:
-    - text: "Kass recited the lyrics to an ancient song when\nyou met him in Pagos Woods. You figured out\nthe hidden meaning of the song and\ndiscovered the Spring of Courage as a result.\nIt was at that moment that the voice of the\nGoddess spoke to you.\n\n\"Offer "
+    - text: "Kass recited the lyrics to an ancient song when\nI met him in Pagos Woods. I figured out the\nhidden meaning of the song and discovered\nthe Spring of Courage as a result.\nIt was at that moment that the voice of the\nGoddess spoke to me.\n\n\"Offer "
     - control:
         kind: set_colour
         colour: red

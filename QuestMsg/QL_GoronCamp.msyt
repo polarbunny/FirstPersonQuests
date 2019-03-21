@@ -1,16 +1,16 @@
 ---
 entries:
   QL_GoronCamp_Desc:
-    - text: "You signed on for the hard-core training\nregimen of the three Goron Blood Brothers.\n\nThey call it the "
+    - text: "I signed on for the hard-core training\nregimen of the three Goron Blood Brothers.\n\nThey call it the "
     - control:
         kind: set_colour
         colour: red
     - text: Gut Check Challenge
     - control:
         kind: reset_colour
-    - text: "!\n\nTalk to Bayge when you're ready."
+    - text: "!\n\nI can talk to Bayge when I'm ready."
   QL_GoronCamp_Finish:
-    - text: "You showed the Goron brothers your grit knows\nno bounds, brother! You even passed the\nGut Check Challenge in one piece.\n\nImpressed with your performance, the Goron\nBlood Brothers let you through to the ancient\nshrine. They also invited you to challenge the\neven gutsier version of the course."
+    - text: "I showed the Goron brothers my grit knows\nno bounds! I even passed the Gut Check\nChallenge in one piece.\n\nImpressed with my performance, the Goron\nBlood Brothers let me through to the ancient\nshrine. They also invited me to challenge the\neven gutsier version of the course."
   QL_GoronCamp_GameReady:
     - text: "\"Stop checking your adventure log and start\nchecking your gut, brother. Go on! Hurry up\nand climb that cliff!\"\n-Bayge"
   QL_GoronCamp_Name:

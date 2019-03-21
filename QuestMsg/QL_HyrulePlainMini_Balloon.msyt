@@ -1,7 +1,7 @@
 ---
 entries:
   QL_HyrulePlainMini_Balloon_Desc:
-    - text: "You promised Shamae, the kid from the\nWoodland Stable, that you'd show her a\nsky filled with "
+    - text: "I promised Shamae, the kid from the\nWoodland Stable, that I'd show her a\nsky filled with "
     - control:
         kind: set_colour
         colour: red
@@ -24,6 +24,6 @@ entries:
     - text: Octo balloons
     - control:
         kind: reset_colour
-    - text: ", you\nkept your promise to Shamae.\n\nAs thanks, she gave you a star fragment."
+    - text: ", I\nkept my promise to Shamae.\n\nAs thanks, she gave me a star fragment."
   QL_HyrulePlainMini_Balloon_Name:
     - text: Balloon Flight

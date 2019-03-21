@@ -10,7 +10,7 @@ entries:
         kind: reset_colour
     - text: "\nis a journal that places the location\nof this treasure..."
   QL_TreasureHunt_touzoku07_Finish:
-    - text: "\"The helm of the self-proclaimed King of\nShadows is in the swamp of the valley\nof dead trees, south of Dueling Peaks.\"\n\nYou found the treasure that was hidden at\nTobio's Hollow and obtained "
+    - text: "\"The helm of the self-proclaimed King of\nShadows is in the swamp of the valley\nof dead trees, south of Dueling Peaks.\"\n\nI found the treasure that was hidden at\nTobio's Hollow and obtained "
     - control:
         kind: set_colour
         colour: red
