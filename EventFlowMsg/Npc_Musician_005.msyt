@@ -1,0 +1,42 @@
+---
+entries:
+  Challenge000:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 11
+    - text: "I'd expect no less from a well-worn\ntraveler like yourself.\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Me? "
+    - control:
+        kind: pause
+        length: long
+    - text: "I stay nice and dry. My feathers\nrepel the rain rather well.\n\nAnd my instrument was designed to\nwithstand extreme moisture.\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 9
+    - text: "When your livelihood revolves around\nancient songs, you've got to be prepared\nfor a few raindrops."
+  TerrorArrow:
+    - text: Stop it!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  TerrorFire:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorHorse:
+    - text: Gah!
+  TerrorSword:
+    - text: Knock it off!

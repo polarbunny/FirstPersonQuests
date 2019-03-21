@@ -1,0 +1,206 @@
+---
+entries:
+  4Relic:
+    - text: Four Divine Beasts
+  AllSpeedMedicine:
+    - text: Hasty Elixir
+  AncientCandlestick:
+    - text: Lantern
+  AncientEquipment:
+    - text: Ancient Soldier Gear
+  AncientOven:
+    - text: Ancient Oven
+  Ancient_Downloader:
+    - text: Guidance Stone
+  Ancient_Furnace:
+    - text: Furnace
+  AttackUpMedicine:
+    - text: Mighty Elixir
+  BlueFire:
+    - text: Blue Flame
+  Bokobrin:
+    - text: Bokoblin
+  Bonfire:
+    - text: Fire
+  ColdSleep:
+    - text: Slumber of Restoration
+  DeathMountainTop:
+    - text: Death Mountain Summit
+  DefenseUpMedicine:
+    - text: Tough Elixir
+  DekuTree_Korok:
+    - text: Great Deku Tree
+  Dlc2_Doushi:
+    - text: Maz Koshia
+  DungeonPriest:
+    - text: Monk
+  Dungeon_Shline:
+    - text: Ancient Shrine
+  Endurance:
+    - text: Trial
+  Engine:
+    - text: Main Control Unit
+  ExGutsMaxUpMedicine:
+    - text: Endurance Elixir
+  FireRelic_SerchLight:
+    - text: Searchlight
+  FireproofMedicine:
+    - text: Fireproof Elixir
+  ForestGiant:
+    - text: Hinox
+  Gambari:
+    - text: Stamina
+  Gerudo_Protection:
+    - text: "Urbosa's Fury"
+  GoronCannon:
+    - text: cannon
+  GoronShop_Bougu:
+    - text: Ripped and Shredded
+  GoronShop_Ishiyaki:
+    - text: Protein Palace
+  GoronShop_Yado:
+    - text: "Rollin' Inn"
+  GoronShop_Yorozu:
+    - text: Goron Gusto Shop
+  Goron_Boss:
+    - text: Boss
+  Goron_Protection:
+    - text: "Daruk's Protection"
+  Guardian:
+    - text: Guardian
+  GutsRecoverMedicine:
+    - text: Energizing Elixir
+  HatenoShop_Bougu:
+    - text: Ventest Clothing
+  HatenoShop_Somemono:
+    - text: Kochi Dye Shop
+  HatenoShop_Yado:
+    - text: Ton Pu Inn
+  HatenoShop_Yorozu:
+    - text: East Wind
+  Heros:
+    - text: Champion
+  Hyrule_People:
+    - text: Hylian
+  IchikaraShop_Bougu:
+    - text: Rhondson Armor
+  IchikaraShop_Gem:
+    - text: Ore and More
+  IchikaraShop_Yorozu:
+    - text: Slippery Falcon (Tarrey Town Branch)
+  Item:
+    - text: Rune
+  KingHyrule:
+    - text: Rhoam Bosphoramus Hyrule
+  KingdomOfHyrule:
+    - text: Hyrule
+  Korok:
+    - text: Korok
+  KorokShop_Kinoko:
+    - text: Spore Store
+  KorokShop_Yado:
+    - text: "Great Deku Tree's Navel"
+  KorokShop_Yorozu:
+    - text: General Shoppe
+  LifeMaxUpMedicine:
+    - text: Hearty Elixir
+  MAP:
+    - text: Map
+  MAP_00:
+    - text: Scope
+  MamonoGoods:
+    - text: Monster Gear
+  MamonoGoods_00:
+    - text: Monster
+  MamonoMaterial:
+    - text: Monster Parts
+  MamonoMoney:
+    - text: Mon
+  MamonoShop:
+    - text: Fang and Bone
+  MapPin:
+    - text: Pin
+  Picture:
+    - text: Picture
+  PicturePack:
+    - text: Picture Pack
+  PlayerName:
+    - text: Link
+  Pocketbook:
+    - text: Adventure Log
+  Porch:
+    - text: Inventory
+  PowerPlant:
+    - text: Terminal
+  QuietnessMedicine:
+    - text: Sneaky Elixir
+  RemainsElectric_NickName:
+    - text: Naboris
+  RemainsFire_NickName:
+    - text: Rudania
+  RemainsWater_NickName:
+    - text: Ruta
+  RemainsWind_NickName:
+    - text: Medoh
+  ResistColdMedicine:
+    - text: Warming Elixir
+  ResistElectricMedicine:
+    - text: Electro Elixir
+  ResistHotMedicine:
+    - text: Cooling Elixir
+  RitoShop_Bougu:
+    - text: Brazen Beak
+  RitoShop_Yado:
+    - text: "Swallow's Roost"
+  RitoShop_Yorozu:
+    - text: Slippery Falcon
+  Rito_Protection:
+    - text: "Revali's Gale"
+  RockGolem:
+    - text: Talus
+  SandWorm:
+    - text: Molduga
+  SearchMachine:
+    - text: Sentry
+  SeeKerTower:
+    - text: Sheikah Tower
+  SheikerMicrowave:
+    - text: Cherry
+  Shline:
+    - text: Shrine
+  Stamp:
+    - text: Stamp
+  Stand_Bow:
+    - text: Bow Rack
+  Stand_Shield:
+    - text: Shield Rack
+  Stand_Weapon:
+    - text: Weapon Rack
+  Storehouse:
+    - text: vault
+  System_Demo:
+    - text: Memories
+  System_MainCH:
+    - text: Main Quest
+  System_MiniCH:
+    - text: Side Quest
+  System_SubCH:
+    - text: Shrine Quest
+  TamulPowerPlant:
+    - text: Ancient Furnace
+  VolcanicBomb:
+    - text: Magma Bomb
+  WarpPoint:
+    - text: Travel Gate
+  WolfLink:
+    - text: Wolf Link
+  Zelda:
+    - text: Zelda
+  ZoraShop_Factory:
+    - text: The Hammerhead
+  ZoraShop_Yado:
+    - text: Seabed Inn
+  ZoraShop_Yorozu:
+    - text: Coral Reef
+  Zora_Protection:
+    - text: "Mipha's Grace"

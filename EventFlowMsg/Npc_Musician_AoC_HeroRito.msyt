@@ -1,0 +1,51 @@
+---
+entries:
+  Challenge000:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 0
+    - text: "Ah, we meet again!"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nI trust you're doing well?"
+  Talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Hmm... It seems the "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: Rito
+    - control:
+        kind: reset_colour
+    - text: " "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: Champion
+    - control:
+        kind: reset_colour
+    - text: "\nwas not one to share his feelings."
+  TerrorArrow:
+    - text: "Please don't do that!"
+  TerrorExplosion:
+    - text: WAAAH!
+  TerrorFire:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 20
+              - 205
+    - text: Yikes!
+  TerrorHorse:
+    - text: Whoa there!
+  TerrorSword:
+    - text: Stop this madness!

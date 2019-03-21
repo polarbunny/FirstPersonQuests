@@ -1,0 +1,122 @@
+---
+entries:
+  "0000":
+    - text: Cooking pot?
+  "0001":
+    - text: "I'll pass."
+  Near00:
+    - text: All right now...
+  Near01:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 1
+              - 205
+    - text: Dinnertime!
+  Near02:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 7
+              - 205
+    - text: Eat up now.
+  Near_RunRain00:
+    - text: "Don't want to..."
+  Near_RunRain01:
+    - text: "Rain, hm..."
+  Near_Sleep00:
+    - text: Zzz... Zzz...
+  Near_Sleep01:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 32
+              - 205
+    - text: I overslept...
+  Talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: Would you like to use the cooking pot?
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  Talk01:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "We don't serve food at the stable."
+    - control:
+        kind: pause
+        length: long
+    - text: "\nPlease, use this cooking pot."
+  Talk02:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Talk to our master Embry if you have\nneeds, "
+    - control:
+        kind: pause
+        length: long
+    - text: "and ask the apprentice Trott if\nyou need directions."
+  Talk03:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 0
+    - text: "You'll get wet standing around outside."
+    - control:
+        kind: pause
+        length: long
+    - text: "\nPlease, use the stable for shelter."
+  Talk04:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 18
+    - text: "Can't use the cooking pot in this rain..."
+    - control:
+        kind: pause
+        length: long
+    - text: "\nWhy not stay the night?"
+  Talk05:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 18
+    - text: Huh?
+    - control:
+        kind: pause
+        length: long
+    - text: " It's late. We can talk later."
+  Talk06:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Veggies are good for you, and they're\nvery yummy."
+    - control:
+        kind: pause
+        length: long
+    - text: " Mmm..."

@@ -1,0 +1,9 @@
+---
+entries:
+  Npc_oasis009_001:
+    - control:
+        kind: sound
+        unknown:
+          - 8
+          - 0
+    - text: "I cannot allow a voe to go any farther.\nI must ask you to leave at once."

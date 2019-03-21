@@ -1,0 +1,48 @@
+---
+entries:
+  Demo142_0_Text000:
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "..."
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: Link...
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - text: Link...
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - text: "I'm sorry...but my power isn't strong enough..."
+  Demo142_0_Text001:
+    - text: "I can't hold him..."

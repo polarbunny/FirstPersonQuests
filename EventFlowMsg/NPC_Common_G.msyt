@@ -1,0 +1,113 @@
+---
+entries:
+  ClearTerrorEnemy_00:
+    - text: Phew...
+  ClearTerrorEnemy_01:
+    - text: That was scary...
+  ClearTerrorEnemy_02:
+    - text: Hohhh...
+  ClearTerrorGuardian_00:
+    - text: That was a shock...
+  ClearTerrorGuardian_01:
+    - text: That was scary...
+  ClearTerrorGuardian_02:
+    - text: Phew...
+  NakedPlayer_00:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 17
+              - 205
+    - text: No clothes?!
+  NakedPlayer_01:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 17
+              - 205
+    - text: What a weirdo!
+  NakedPlayer_02:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 17
+              - 205
+    - text: "He's got no clothes!"
+  TerrorAnimal_00:
+    - text: Noooooo!
+  TerrorAnimal_01:
+    - text: "*whimper*"
+  TerrorAnimal_02:
+    - text: Help me!
+  TerrorArrow_00:
+    - text: Stop iiiiit!
+  TerrorArrow_01:
+    - text: Yahh!
+  TerrorArrow_02:
+    - text: Yaah!
+  TerrorBomb_00:
+    - text: Whaaaat?
+  TerrorBomb_01:
+    - text: Augh!
+  TerrorBomb_02:
+    - text: Hmm?!
+  TerrorEnemy_00:
+    - text: Help meee!
+  TerrorEnemy_01:
+    - text: "*whimper*"
+  TerrorEnemy_02:
+    - text: "I'm scaaared!"
+  TerrorExplosion_00:
+    - text: Wahh!
+  TerrorExplosion_01:
+    - text: Yahh!
+  TerrorExplosion_02:
+    - text: Eee!
+  TerrorFire_00:
+    - text: "It's hot!"
+  TerrorFire_01:
+    - text: "That's hot!!"
+  TerrorFire_02:
+    - text: Eee!
+  TerrorGuardian_00:
+    - text: Eeee!
+  TerrorGuardian_01:
+    - text: "*whimper*"
+  TerrorGuardian_02:
+    - text: "I'm scaaared!"
+  TerrorHorse_00:
+    - text: Hyahh!
+  TerrorHorse_01:
+    - text: Waaah!
+  TerrorHorse_02:
+    - text: Yah!
+  TerrorImpulse_00:
+    - text: Whoof!
+  TerrorImpulse_01:
+    - text: Waah!
+  TerrorImpulse_02:
+    - text: Yahh!
+  TerrorInsect_00:
+    - text: Uwahh!
+  TerrorInsect_01:
+    - text: Eee!
+  TerrorInsect_02:
+    - text: Waah!
+  TerrorLightning_00:
+    - text: Wahh!
+  TerrorLightning_01:
+    - text: Yahh!
+  TerrorLightning_02:
+    - text: "I'm scaaared!"
+  TerrorSword_00:
+    - text: Yahh!
+  TerrorSword_01:
+    - text: Kyah!
+  TerrorSword_02:
+    - text: Yah!

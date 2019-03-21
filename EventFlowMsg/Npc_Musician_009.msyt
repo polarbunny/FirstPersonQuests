@@ -1,0 +1,73 @@
+---
+entries:
+  Talk08:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 11
+    - text: Good to see you again!
+    - control:
+        kind: pause
+        length: short
+    - text: "\nI trust you're keeping well?\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "You've come quite some distance.\n"
+    - control:
+        kind: pause
+        length: long
+    - text: "Even I, blessed with the gift of flight, \nstruggled a bit to make it here."
+    - control:
+        kind: sound
+        unknown:
+          - 5
+          - 1
+    - text: "\n..."
+    - control:
+        kind: pause
+        length: long
+    - text: "My teacher was the court poet in the\nemploy of the Hyrulean royal family.\n\nOne hundred years ago, he came \nface-to-face with the Calamity at \n"
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: Hyrule Castle
+    - control:
+        kind: reset_colour
+    - text: " and was forced to flee.\n"
+    - control:
+        kind: sound
+        unknown:
+          - 9
+          - 13
+    - text: "It was a perilous journey—very different\nfrom my own travels, I imagine. Danger\nwas his constant companion...\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Anyway,"
+    - control:
+        kind: pause
+        length: short
+    - text: " I should return to my task."
+  TerrorArrow:
+    - text: Stop it!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  TerrorFire:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorHorse:
+    - text: Whoa!
+  TerrorSword:
+    - text: Knock it off!

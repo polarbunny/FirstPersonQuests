@@ -1,0 +1,189 @@
+---
+entries:
+  "0000":
+    - text: I am!
+  "0001":
+    - text: Eh. Not really.
+  Near00:
+    - text: "It's rainy!"
+  Near01:
+    - text: "*yawn*"
+  Near03:
+    - text: This way! This way!
+  Near04:
+    - text: Zzz...
+  Near06:
+    - text: Food. Foooood...
+  talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 26
+    - text: "I'm gonna go have dinner!"
+    - control:
+        kind: pause
+        length: long
+    - text: "\nI have to hurry back home!"
+  talk01:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 33
+    - text: Zzz...
+  talk02:
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 0
+    - text: "Mom's home cooking is the best!"
+  talk04:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 34
+    - text: "I'm going to sleep!"
+    - control:
+        kind: pause
+        length: long
+    - text: "\nGood night!"
+  talk05:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: Have you heard?
+    - control:
+        kind: pause
+        length: long
+    - text: " There's this really\ninteresting spot at "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: Palmorae Beach
+    - control:
+        kind: reset_colour
+    - text: ".\n\nI went there with Garini before, and it\nwas so exciting!\n\nHe said they were "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: "ruins "
+    - control:
+        kind: reset_colour
+    - text: or something.
+    - control:
+        kind: pause
+        length: long
+    - text: "\nHey, mister, are you interested in old\nstuff like that?"
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  talk06:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 0
+    - text: "Then I'll take you there!"
+    - control:
+        kind: pause
+        length: long
+    - text: "\nFollow me!"
+  talk07:
+    - control:
+        kind: sound
+        unknown:
+          - 9
+          - 0
+    - text: "Whaa, really?"
+    - control:
+        kind: pause
+        length: long
+    - text: " That's too bad."
+  talk08:
+    - control:
+        kind: sound
+        unknown:
+          - 6
+          - 0
+    - text: "We're not there yet!"
+  talk09:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 9
+    - text: We made it!
+  talk10:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "We're almost there.\nFollow me!"
+  talk11:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Those are the "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: ruins
+    - control:
+        kind: reset_colour
+    - text: "!"
+  talk12:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 4
+    - text: See ya!
+  talk14:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: Tell Garini I said hi!
+  talk15:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "How were the "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: ruins
+    - control:
+        kind: reset_colour
+    - text: "?"
+    - control:
+        kind: pause
+        length: short
+    - text: " Were they\nexciting?"
+  talk16:
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 0
+    - text: "Rain, rain..."
+    - control:
+        kind: pause
+        length: long
+    - text: " I love to run and jump and\nplay in the rain..."

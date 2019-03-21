@@ -1,0 +1,17 @@
+---
+entries:
+  Talk01:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Place the Sheikah Slate in the pedestal.
+  Talk02:
+    - control:
+        kind: animation
+        name: Activate
+    - text: "Descending...\nPlease beware of tremors."
+  Talk03:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Sheikah Slate confirmed.

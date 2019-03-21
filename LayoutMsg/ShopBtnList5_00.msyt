@@ -1,0 +1,34 @@
+---
+entries:
+  "0001":
+    - text: Stock
+  "0002":
+    - text: All Items
+  "0003":
+    - text: All Items
+  "0004":
+    - text: All Ancient Soldier Gear
+  "0005":
+    - text: All Pictures
+  "0006":
+    - text: All Manes
+  "0007":
+    - text: All Bridles
+  "0008":
+    - text: All Saddles
+  Pa_GuideA_00-T_Guide_00:
+    - text: Select
+  Pa_GuideB_00-T_Guide_00:
+    - text: Back
+  Pa_Page_5x1_00-Pa_Btn_00-T_SoldOut_00:
+    - text: Sold Out
+  Pa_Page_5x1_00-Pa_Btn_01-T_SoldOut_00:
+    - text: Sold Out
+  Pa_Page_5x1_00-Pa_Btn_02-T_SoldOut_00:
+    - text: Sold Out
+  Pa_Page_5x1_00-Pa_Btn_03-T_SoldOut_00:
+    - text: Sold Out
+  Pa_Page_5x1_00-Pa_Btn_04-T_SoldOut_00:
+    - text: Sold Out
+  T_Guide_01:
+    - text: Price

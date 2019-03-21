@@ -1,0 +1,83 @@
+---
+entries:
+  Text_00:
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 77
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "..."
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 77
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: Link...
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 77
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "Link.\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 200
+    - text: "You have recovered all of your memories\nof us from 100 years ago...\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 199
+    - text: "I am here...inside Hyrule Castle.\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 180
+    - text: It is now time for you to defeat Ganon.

@@ -1,0 +1,12 @@
+---
+entries:
+  talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 2
+          - 1
+    - control:
+        kind: animation
+        name: CustomRescueAreaOut
+    - text: Where are you off to?!

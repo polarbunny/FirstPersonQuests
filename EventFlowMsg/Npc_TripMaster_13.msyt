@@ -1,0 +1,76 @@
+---
+entries:
+  ClearTerrorEnemy:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  ClearTerrorGuardian:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 16
+              - 205
+    - text: That was scary...
+  Near:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 1
+    - control:
+        kind: animation
+        name: CustomCold
+    - text: Brrrrrrrrrrrr...
+  TerrorAnimal:
+    - text: Get back!
+  TerrorArrow:
+    - text: Please stop!
+  TerrorBomb:
+    - text: WHOA NOW!
+  TerrorEnemy:
+    - text: Eeeeeeeeek!
+  TerrorExplosion:
+    - text: Haaaaeeeeee!
+  TerrorFire:
+    - text: "I don't like fire!"
+  TerrorGuardian:
+    - text: Hyeeeeeeehh!
+  TerrorHorse:
+    - text: Whoa!
+  TerrorImpulse:
+    - text: Ohhh!
+  TerrorInsect:
+    - text: NOT BEES! AHHHH!
+  TerrorLightning:
+    - text: AHHH!
+  TerrorSword:
+    - text: Owww!
+  talk_03:
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 2
+    - text: Yah! We meet again!
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "I didn't really dress for the weather here,"
+    - control:
+        kind: pause
+        length: long
+    - text: "\nbut the world needs Beedle's goods!"

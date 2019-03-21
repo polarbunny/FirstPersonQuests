@@ -1,0 +1,54 @@
+---
+entries:
+  talk_00:
+    - control:
+        kind: set_colour
+        colour: blue
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 23
+    - control:
+        kind: reset_colour
+    - text: "Don't you think the waterfall flowing\ndown from "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: "Lake Floria "
+    - control:
+        kind: reset_colour
+    - text: "is the very picture\nof perfection?"
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - text: "There is something strange at the "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: "top of\nthat waterfall"
+    - control:
+        kind: reset_colour
+    - text: ", though...\n\nAnd even though it has shrunken over\ntime, you can still see a faint glow."
+  talk_01:
+    - control:
+        kind: sound
+        unknown:
+          - 5
+          - 17
+    - text: "Maybe I'm just imagining things..."
+    - control:
+        kind: pause
+        length: long
+    - text: "\nWas it like that the whole time?"
+  talk_02:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 31
+              - 205
+    - text: Zzz...zzz...

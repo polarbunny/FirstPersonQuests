@@ -1,0 +1,36 @@
+---
+entries:
+  near00:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 42
+              - 205
+    - text: Ouch.
+  near01:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 42
+              - 205
+    - text: Gya!
+  near02:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 42
+              - 205
+    - text: Unngh.
+  talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 0
+    - text: Twee hee!

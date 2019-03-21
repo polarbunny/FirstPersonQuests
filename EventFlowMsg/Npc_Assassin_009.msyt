@@ -1,0 +1,217 @@
+---
+entries:
+  "0000":
+    - text: "Yes, please!"
+  "0001":
+    - text: "I'll pass."
+  Henshin00:
+    - control:
+        kind: sound
+        unknown:
+          - 8
+          - 14
+    - control:
+        kind: raw
+        one:
+          one:
+            field_1: 4
+            field_2: 1077936128
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: NOW DIE!
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 60
+  Henshin01:
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - control:
+        kind: sound
+        unknown:
+          - 8
+          - 14
+    - control:
+        kind: raw
+        one:
+          one:
+            field_1: 4
+            field_2: 1077936128
+    - text: For Master Kohga!
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 60
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  Near00:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 1
+              - 205
+    - text: "Greetings, traveler."
+  Talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 0
+    - text: "Excuse me, young traveler, but if I may\nbe so bold... You look quite troubled.\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "Perhaps a glimpse into what your future\nholds would bring comfort to your spirit?\nThat is...may I tell you your fortune?"
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  Talk01:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "Ahh, very good. Now let me see...\n\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 0
+    - text: "I see...red... A crimson...deep and rich...\nIt's the most beautiful color I've\never seen..."
+  Talk02:
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 10
+    - text: "Oh! It's the color of your blood!"
+  Talk03:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "Perhaps that is for the best...\n"
+    - control:
+        kind: pause
+        length: long
+    - text: "Some things may be better off\nleft unknown."
+  Talk04:
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 10
+    - text: Like...
+    - control:
+        kind: pause
+        length: long
+    - text: "how today is the day your life\nis ended!"
+  Talk05:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 0
+    - text: "I have to say... Your visage looks just as\ntroubled as ever."
+    - control:
+        kind: pause
+        length: long
+    - text: " Perhaps a glimpse of\nyour future will ease your worries?\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "What do you think? Shall I tell you\nyour fortune?"
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  Talk06:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: Excellent...
+    - control:
+        kind: pause
+        length: short
+    - text: " Now then, let me see...\n\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 0
+    - text: I see
+    - control:
+        kind: pause
+        length: short
+    - text: "."
+    - control:
+        kind: pause
+        length: short
+    - text: "."
+    - control:
+        kind: pause
+        length: short
+    - text: "."
+    - control:
+        kind: pause
+        length: long
+    - text: black.
+    - control:
+        kind: pause
+        length: longer
+    - text: " So much blackness..."
+    - control:
+        kind: pause
+        length: short
+    - text: "\nA deep, dark abyss, drawing you in..."
+  Talk07:
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 10
+    - text: Ah!
+    - control:
+        kind: pause
+        length: long
+    - text: " It's the void you're about to inhabit."

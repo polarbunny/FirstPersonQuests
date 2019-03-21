@@ -1,0 +1,16 @@
+---
+entries:
+  Demo003_0_Text000:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Sheikah Slate authenticated.
+    - control:
+        kind: pause
+        length: longer
+    - text: "\nDistilling rune..."
+  Demo003_0_Text005:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Rune extracted.

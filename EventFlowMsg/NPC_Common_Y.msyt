@@ -1,0 +1,113 @@
+---
+entries:
+  ClearTerrorEnemy_00:
+    - text: Phew...
+  ClearTerrorEnemy_01:
+    - text: Haah... Haah...
+  ClearTerrorEnemy_02:
+    - text: Hoh...
+  ClearTerrorGuardian_00:
+    - text: "Phew... I'm saved..."
+  ClearTerrorGuardian_01:
+    - text: Haah... Haah...
+  ClearTerrorGuardian_02:
+    - text: I thought I was a goner...
+  NakedPlayer_00:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 17
+              - 205
+    - text: "Not a fan of clothes, huh..."
+  NakedPlayer_01:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 17
+              - 205
+    - text: "Ahh, to be young..."
+  NakedPlayer_02:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 17
+              - 205
+    - text: "Well, that's unexpected..."
+  TerrorAnimal_00:
+    - text: Take cover!
+  TerrorAnimal_01:
+    - text: Gyaah!
+  TerrorAnimal_02:
+    - text: Ahhh!
+  TerrorArrow_00:
+    - text: Please stop...
+  TerrorArrow_01:
+    - text: Wh-what are you...
+  TerrorArrow_02:
+    - text: Ahhh!
+  TerrorBomb_00:
+    - text: What? Why?!
+  TerrorBomb_01:
+    - text: Oh?
+  TerrorBomb_02:
+    - text: Ahhh!
+  TerrorEnemy_00:
+    - text: Someone heeelp!
+  TerrorEnemy_01:
+    - text: Gyaah!
+  TerrorEnemy_02:
+    - text: Aaaack!
+  TerrorExplosion_00:
+    - text: Waaaagh!
+  TerrorExplosion_01:
+    - text: Gyaah!
+  TerrorExplosion_02:
+    - text: Ahhh!
+  TerrorFire_00:
+    - text: Hot! Hot!
+  TerrorFire_01:
+    - text: Gyaah!
+  TerrorFire_02:
+    - text: Aaaaaaa!
+  TerrorGuardian_00:
+    - text: Someone heeelp!
+  TerrorGuardian_01:
+    - text: Gyaah!
+  TerrorGuardian_02:
+    - text: "Ohhh, this is bad!"
+  TerrorHorse_00:
+    - text: Yikes!
+  TerrorHorse_01:
+    - text: Heeh!
+  TerrorHorse_02:
+    - text: Ahhh!
+  TerrorImpulse_00:
+    - text: Eeek!
+  TerrorImpulse_01:
+    - text: Gyaah!
+  TerrorImpulse_02:
+    - text: Ahhh!
+  TerrorInsect_00:
+    - text: Uh-oh!
+  TerrorInsect_01:
+    - text: Gyaah!
+  TerrorInsect_02:
+    - text: Ahhh!
+  TerrorLightning_00:
+    - text: Bluhhhh?!
+  TerrorLightning_01:
+    - text: Gyaah!
+  TerrorLightning_02:
+    - text: Ahhh!
+  TerrorSword_00:
+    - text: Hey!
+  TerrorSword_01:
+    - text: Stop that!
+  TerrorSword_02:
+    - text: Yikes!

@@ -1,0 +1,142 @@
+---
+entries:
+  "0000":
+    - text: Uh... What?
+  "0001":
+    - text: BOOM BAM!
+  "0002":
+    - text: "I'm sure it does."
+  talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 11
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: "BOOM BOOM!\nBAM BAM!"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  talk01:
+    - control:
+        kind: sound
+        unknown:
+          - 10
+          - 0
+    - text: "Buddy, you don't know?!"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nThe BOOM-BAM GHOST of\n"
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: Tabantha Great Bridge
+    - control:
+        kind: reset_colour
+    - text: "!\nUnder the bridge, at the bottom of the\nvalley, there's a ghost that makes weird\nnoises like \"BOOM-BAM BOOM-BAM!\"\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "Just listen and you'll hear it."
+    - control:
+        kind: pause
+        length: longer
+    - text: "\n...Huh?"
+    - control:
+        kind: pause
+        length: longer
+    - text: " It stopped...\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 5
+          - 19
+    - text: "Maybe the Boom-Bam Ghost is taking\na nap."
+  talk02:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 1
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: BOOM-BAM! BOOM-BAM!
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  talk40:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 16
+    - text: "I wonder if the Boom-Bam Ghost of\n"
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: "Tabantha Great Bridge "
+    - control:
+        kind: reset_colour
+    - text: likes the rain...
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 2
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  talk41:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 18
+    - text: "You think so? I'm worried about the\nghost because it's not saying\n\"BOOM-BAM! BOOM-BAM!\" anymore..."
+  talk50:
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 31
+              - 205
+    - text: "Boom... Bam...\nZzz..."
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100

@@ -1,0 +1,25 @@
+---
+entries:
+  Npc_kokiri001_NearActorsNear000:
+    - text: Well done!
+  Npc_kokiri001_NearActorsTalk000:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 0
+    - text: You did a great job on the trial.
+  Npc_kokiri001_NearActorsTalk010:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: I was cool and composed the whole time!
+  Npc_kokiri001_Talk000:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "My little baby's all grown up."

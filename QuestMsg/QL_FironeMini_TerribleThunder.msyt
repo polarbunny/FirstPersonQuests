@@ -1,0 +1,24 @@
+---
+entries:
+  QL_FironeMini_TerribleThunder_Desc:
+    - text: "Cima is feeling really gloomy, likely because of\nall the "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: lightning
+    - control:
+        kind: reset_colour
+    - text: ".\n\nLakeside Stable seems to attract lightning\nstrikes constantly, and Cima has asked you to\nfigure out why."
+  QL_FironeMini_TerribleThunder_Finish:
+    - text: "Cima seems relieved to hear the news, though\nit sounds like she still hates all the noise a\nthunderstorm makes."
+  QL_FironeMini_TerribleThunder_Name:
+    - text: Thunder Magnet
+  QL_FironeMini_TerribleThunder_Remove:
+    - text: "It turns out the "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: lightning
+    - control:
+        kind: reset_colour
+    - text: " was drawn to\nLakeside Stable because of a metal weapon\nstuck on top of the building!\n\nHead back to Cima, and let her know what\nwas going on."

@@ -1,0 +1,42 @@
+---
+entries:
+  Talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 0
+    - text: I dearly hope we meet again someday.
+    - control:
+        kind: pause
+        length: short
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - text: "As for the souls of the Champions\nwatching over Hyrule..."
+    - control:
+        kind: pause
+        length: short
+    - text: "may they\nfinally rest in peace."
+    - control:
+        kind: pause
+        length: long
+  TerrorArrow:
+    - text: "Please don't do that!"
+  TerrorExplosion:
+    - text: WAAAH!
+  TerrorFire:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 20
+              - 205
+    - text: Yikes!
+  TerrorHorse:
+    - text: Whoa there!
+  TerrorSword:
+    - text: Stop this madness!

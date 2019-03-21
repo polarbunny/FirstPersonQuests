@@ -1,0 +1,98 @@
+---
+entries:
+  "0000":
+    - text: What are you doing?
+  "0001":
+    - text: Nothing.
+  Near00:
+    - text: Heehee!
+  Near01:
+    - text: Din din!
+  Near_RunRain00:
+    - text: Raaaain!
+  Near_Sleep00:
+    - text: Zzz... Zzz...
+  Near_Sleep01:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 32
+              - 205
+    - text: "*yawn*"
+  Talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 0
+    - text: Yes?
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  Talk01:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 0
+    - text: Playing tag! You want to play?
+  Talk02:
+    - control:
+        kind: sound
+        unknown:
+          - 8
+          - 0
+    - text: Thbbb!
+  Talk03:
+    - control:
+        kind: sound
+        unknown:
+          - 9
+          - 0
+    - text: So hungry!
+  Talk04:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 0
+    - text: "I eat vegetables 'cause I wanna be big\nand strong!"
+  Talk05:
+    - control:
+        kind: sound
+        unknown:
+          - 9
+          - 0
+    - text: Splash splosh!
+  Talk06:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: I wish the rain would stop.
+  Talk07:
+    - control:
+        kind: sound
+        unknown:
+          - 9
+          - 34
+    - text: Gonna sleep!
+  Talk08:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: So full...
+    - control:
+        kind: pause
+        length: long
+    - text: "\nSo sweepy..."

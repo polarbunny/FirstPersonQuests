@@ -1,0 +1,30 @@
+---
+entries:
+  Challenge000:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 11
+    - text: "Oh ho! It's you!"
+    - control:
+        kind: pause
+        length: short
+    - text: " Although I guess\nI shouldn't be surprised to see you here."
+  TerrorArrow:
+    - text: Stop it!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  TerrorFire:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorHorse:
+    - text: Watch it!
+  TerrorSword:
+    - text: Knock it off!

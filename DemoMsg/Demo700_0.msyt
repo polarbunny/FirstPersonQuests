@@ -1,0 +1,31 @@
+---
+entries:
+  OP_DRC04:
+    - text: "That is a "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: Sheikah Slate
+    - control:
+        kind: reset_colour
+    - text: ". "
+    - control:
+        kind: raw
+        one:
+          zero:
+            field_1: 4
+            field_2: 75
+    - text: "Take it. "
+    - control:
+        kind: raw
+        one:
+          zero:
+            field_1: 4
+            field_2: 55
+    - text: "It will\nhelp guide you after your long slumber."
+    - control:
+        kind: raw
+        one:
+          zero:
+            field_1: 4
+            field_2: 157

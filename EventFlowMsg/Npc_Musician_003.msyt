@@ -1,0 +1,52 @@
+---
+entries:
+  Challenge000:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 19
+    - text: "Oh, forgive me."
+    - control:
+        kind: pause
+        length: short
+    - text: " It seems I've prattled\non..."
+    - control:
+        kind: pause
+        length: long
+  Talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 4
+    - text: "I see... "
+    - control:
+        kind: pause
+        length: long
+    - text: "So you were meant to face the\nsun and shoot an arrow from the platform\nas indicated by the tower's shadow...\nI'm amazed you figured that out!\n\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: I hope our paths cross again.
+    - control:
+        kind: pause
+        length: short
+    - text: " May the\nlight illuminate your path."
+  TerrorArrow:
+    - text: Stop it!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  TerrorFire:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorSword:
+    - text: Knock it off!

@@ -1,0 +1,54 @@
+---
+entries:
+  talk000:
+    - text: This thing is fast! Watch yourself.
+  talk010:
+    - text: "Great, Link!"
+  talk011:
+    - text: Just like that!
+  talk012:
+    - text: Beautiful!
+  talk020:
+    - text: " "
+  talk021:
+    - text: You OK?
+  talk022:
+    - text: Link!
+  talk030:
+    - text: This thing is powerful...
+  talk031:
+    - text: "Careful, now."
+  talk032:
+    - text: There is valor in dodging...
+  talk040:
+    - text: "Now's your chance!"
+  talk041:
+    - text: Go!
+  talk042:
+    - text: Unleash your power!
+  talk050:
+    - text: Might want to heal.
+  talk051:
+    - text: "Don't go out like this."
+  talk052:
+    - text: Need some health!
+  talk060:
+    - text: Watch that lightning!
+  talk070:
+    - text: Well done!
+  talk071:
+    - text: You did it!
+  talk072:
+    - text: Good timing!
+  talk080:
+    - text: You need a way around that shield...
+  talk081:
+    - text: If only you could harness that lightning...
+  talk082:
+    - text: Get something metallic near that thing!
+  talk101:
+    - text: " "
+  talk110:
+    - text: " "
+  talk130:
+    - text: "Urbosa's Fury is ready."

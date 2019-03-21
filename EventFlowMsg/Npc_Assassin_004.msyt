@@ -1,0 +1,171 @@
+---
+entries:
+  "0000":
+    - text: "What's wrong?"
+  "0001":
+    - text: "..."
+  "0002":
+    - text: What do you need?
+  "0003":
+    - text: "..."
+  "0004":
+    - text: You...what?
+  "0005":
+    - text: "..."
+  Henshin00:
+    - control:
+        kind: sound
+        unknown:
+          - 8
+          - 35
+    - control:
+        kind: raw
+        one:
+          one:
+            field_1: 4
+            field_2: 1077936128
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: "the hero's life!"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 60
+  Henshin01:
+    - control:
+        kind: sound
+        unknown:
+          - 8
+          - 35
+    - control:
+        kind: raw
+        one:
+          one:
+            field_1: 4
+            field_2: 1077936128
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: "Begone, enemy of my master!"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 60
+  Near00:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 40
+              - 205
+    - text: "*sniffle*"
+  Talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 42
+    - text: "*sniffle*"
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  Talk01:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 42
+    - text: "*sniffle*"
+    - control:
+        kind: pause
+        length: long
+    - text: " I want... I need..."
+    - control:
+        kind: choice
+        choice_labels:
+          - 2
+          - 3
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  Talk02:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: I need...
+    - control:
+        kind: pause
+        length: longer
+    - text: grilled
+    - control:
+        kind: pause
+        length: long
+    - text: " salmon."
+    - control:
+        kind: choice
+        choice_labels:
+          - 4
+          - 5
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  Talk03:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: And also...
+  Talk04:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 42
+    - text: "*sniffle*"
+    - control:
+        kind: pause
+        length: long
+    - text: " What I really want...\nWhat I really need is..."
+  Talk05:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 42
+    - text: "*sniffle* "
+    - control:
+        kind: pause
+        length: long
+    - text: "I'll never see him again..."

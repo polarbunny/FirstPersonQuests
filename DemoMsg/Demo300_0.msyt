@@ -1,0 +1,30 @@
+---
+entries:
+  Deku_FirstFailure00:
+    - control:
+        kind: raw
+        one:
+          two:
+            field_1: 0
+    - control:
+        kind: animation
+        name: CustomMasterSword
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: Enough.
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 60

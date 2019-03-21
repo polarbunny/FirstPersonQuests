@@ -1,0 +1,10 @@
+---
+entries:
+  Demo143_1_Text000:
+    - text: "Let's go, little guy!"
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - text: "Now! Open up wide, Ganon!"

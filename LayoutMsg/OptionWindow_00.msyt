@@ -1,0 +1,109 @@
+---
+entries:
+  "0001":
+    - text: Invert vertical camera controls.
+  "0002":
+    - text: Invert horizontal camera controls.
+  "0003":
+    - text: "Swap jump button "
+    - control:
+        kind: icon
+        icon:
+          x: 12
+    - text: " with cancel button "
+    - control:
+        kind: icon
+        icon: b
+    - text: "."
+  "0004":
+    - text: Toggle use of motion sensor for aiming on or off.
+  "0005":
+    - text: ルビを表示します
+  "0006":
+    - text: Fix the minimap to north regardless of which direction Link is facing.
+  "0007":
+    - text: Change how much information appears in the head-up display.
+  "0008":
+    - text: Change the speed at which the camera turns.
+  "0009":
+    - text: Change amiibo settings.
+  "0010":
+    - text: Very slow
+  "0011":
+    - text: Slow
+  "0012":
+    - text: Normal
+  "0013":
+    - text: Fast
+  "0014":
+    - text: Very fast
+  "0015":
+    - text: "Don't use amiibo"
+  "0016":
+    - text: Use amiibo
+  "0017":
+    - text: Change message-window transparency.
+  "0019":
+    - text: Invert vertical camera
+  "0020":
+    - text: Invert horizontal camera
+  "0021":
+    - text: Change jump button
+  "0022":
+    - text: Aim with motion controls
+  "0023":
+    - text: ルビ表示
+  "0024":
+    - text: Fix minimap to north
+  "0025":
+    - text: Camera sensitivity
+  "0026":
+    - text: amiibo
+  "0027":
+    - text: HUD mode
+  "0028":
+    - text: Message-window transparency
+  "0029":
+    - text: Normal
+  "0030":
+    - text: Pro
+  "0032":
+    - text: Regular
+  "0033":
+    - text: Opaque
+  "0034":
+    - text: "Voice Language "
+  "0035":
+    - text: Change
+  "0036":
+    - text: Match System Settings
+  "0037":
+    - text: Japanese
+  "0038":
+    - text: English
+  "0039":
+    - text: French (France)
+  "0040":
+    - text: French (Canada)
+  "0041":
+    - text: German
+  "0042":
+    - text: Spanish (Spain)
+  "0043":
+    - text: Spanish (Latin America)
+  "0044":
+    - text: Italian
+  "0045":
+    - text: Russian
+  "0046":
+    - text: Change voice language
+  Pa_GuideB_00-T_Guide_00:
+    - text: Back
+  Pa_GuideY_00-T_Guide_00:
+    - text: Restore default settings
+  Pa_SlideBtn_00-Pa_Btn_00-T_BtnOFF_00:
+    - text: "OFF"
+  Pa_SlideBtn_00-Pa_Btn_00-T_BtnON_00:
+    - text: "ON"
+  T_OptionTitle_00:
+    - text: Options

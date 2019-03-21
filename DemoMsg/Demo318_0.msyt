@@ -1,0 +1,81 @@
+---
+entries:
+  FirstTower_00:
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 55
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "..."
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 62
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: Link...
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 67
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "Link.\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 154
+    - text: "Head for the point marked on the\nmap in your Sheikah Slate."

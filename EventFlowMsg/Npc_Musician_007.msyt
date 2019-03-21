@@ -1,0 +1,74 @@
+---
+entries:
+  Challenge000:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 11
+    - text: "How fortunate to cross paths with you\nagain!"
+    - control:
+        kind: pause
+        length: short
+    - text: " Did you come to see the sea?"
+  Talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 10
+          - 20
+    - text: What?
+    - control:
+        kind: pause
+        length: short
+    - text: " So the hero's savings amount\nto nothing more than a single\n"
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: gold rupee
+    - control:
+        kind: reset_colour
+    - text: "?"
+    - control:
+        kind: pause
+        length: long
+    - text: "\n"
+    - control:
+        kind: sound
+        unknown:
+          - 5
+          - 16
+    - text: "Hmph, "
+    - control:
+        kind: pause
+        length: short
+    - text: "well, hero though he was, \nhe was much more rich in character\nthan wealth..."
+    - control:
+        kind: pause
+        length: long
+    - text: "\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: Still...that is a fair sum.
+    - control:
+        kind: pause
+        length: short
+    - text: "\nI hope you'll make good use of it!"
+  TerrorArrow:
+    - text: Stop it!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  TerrorFire:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorSword:
+    - text: Knock it off!

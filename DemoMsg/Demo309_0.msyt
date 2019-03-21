@@ -1,0 +1,82 @@
+---
+entries:
+  Talk_00:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 18
+              - 205
+    - text: "Well, well. You've returned."
+    - control:
+        kind: pause
+        length: longer
+    - text: "\nWhat is it?"
+  Talk_01:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 6
+              - 205
+    - text: No...
+    - control:
+        kind: pause
+        length: long
+    - text: " All twelve pictures already?"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nYou've visited every place?!"
+  Talk_02:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - text: "Hmm... Then I suppose it's time."
+    - control:
+        kind: pause
+        length: short
+    - text: "\nI will reveal the location of the final\nmemory."
+  Talk_03:
+    - text: Here is what happened...
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 120
+  Talk_04:
+    - text: Lady Zelda gave me specific instructions.
+    - control:
+        kind: pause
+        length: short
+    - text: "\nShe asked me to wait to show you this."
+  Talk_05:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - text: This is the final picture.
+  Talk_06:
+    - text: Does it look familiar?
+    - control:
+        kind: pause
+        length: short
+    - text: " From this village,"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nyou should be able to get there in a\nhalf day's time.\nNow go, child."
+    - control:
+        kind: pause
+        length: long
+    - text: " Seek out what Lady Zelda\nhas shown you."

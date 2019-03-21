@@ -1,0 +1,17 @@
+---
+entries:
+  Talk02:
+    - control:
+        kind: animation
+        name: Activate
+    - text: "Associated locations have been marked\non the map."
+  Talk03:
+    - control:
+        kind: animation
+        name: Activate
+    - text: "Take hold of the provided weapon\nto begin the trial."
+  Talk05:
+    - control:
+        kind: animation
+        name: Activate
+    - text: "Sheikah Slate and Champion verification\ncomplete. Activating the Divine Beast\nTamer's Trial."

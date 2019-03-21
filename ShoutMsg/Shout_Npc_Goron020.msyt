@@ -1,0 +1,238 @@
+---
+entries:
+  CannonBack_00:
+    - control:
+        kind: animation
+        name: CustomCannonBack
+    - text: " "
+  CannonBack_01:
+    - control:
+        kind: animation
+        name: CustomCannonBack
+    - text: " "
+  CannonBack_02:
+    - control:
+        kind: animation
+        name: CustomCannonBack
+    - text: " "
+  CannonBack_03:
+    - control:
+        kind: animation
+        name: CustomCannonBack
+    - text: " "
+  CannonBack_04:
+    - control:
+        kind: animation
+        name: CustomCannonBack
+    - text: " "
+  CannonFire_Battle_00:
+    - text: Hrahhh!
+  CannonFire_Battle_01:
+    - text: Eat this!
+  CannonFire_Battle_02:
+    - text: Take that!
+  CannonFire_Battle_03:
+    - text: GO!!
+  CannonFire_Battle_04:
+    - text: Heyaaaaah!!
+  CannonFire_Bridge_00:
+    - text: Oriiiight!!!
+  CannonFire_Bridge_01:
+    - text: Yaaaah!
+  CannonFire_Bridge_02:
+    - text: Huraaaah!!
+  CannonFire_Bridge_03:
+    - text: Go go go!!!
+  CannonFire_Bridge_04:
+    - text: Uraaagh!!
+  CannonInOut_00:
+    - text: " "
+  CannonInOut_01:
+    - text: " "
+  CannonInOut_02:
+    - text: " "
+  CannonInOut_03:
+    - text: " "
+  CannonInOut_04:
+    - text: " "
+  Eruption_00:
+    - control:
+        kind: animation
+        name: CustomEruption00
+    - text: Gah!
+  Eruption_01:
+    - control:
+        kind: animation
+        name: CustomEruption01
+    - text: Yeek!
+  Eruption_02:
+    - control:
+        kind: animation
+        name: CustomEruption02
+    - text: Watch out!
+  Eruption_03:
+    - control:
+        kind: animation
+        name: CustomEruption03
+    - text: Out of the way!
+  Eruption_04:
+    - control:
+        kind: animation
+        name: CustomEruption04
+    - text: Danger!
+  Follow_00:
+    - control:
+        kind: animation
+        name: CustomFollow00
+    - text: Hah hah!
+  Follow_01:
+    - control:
+        kind: animation
+        name: CustomFollow01
+    - text: Hee hee!
+  Follow_02:
+    - control:
+        kind: animation
+        name: CustomFollow02
+    - text: Wait up!
+  Follow_03:
+    - control:
+        kind: animation
+        name: CustomFollow03
+    - text: "*pant pant*"
+  Follow_04:
+    - control:
+        kind: animation
+        name: CustomFollow04
+    - text: "*gasp*"
+  HelpEnemy_00:
+    - control:
+        kind: animation
+        name: CustomHelpGoDeathMT00
+    - text: Help me!
+  HelpEnemy_01:
+    - control:
+        kind: animation
+        name: CustomHelpGoDeathMT01
+    - text: "I'm scared!"
+  HelpEnemy_02:
+    - control:
+        kind: animation
+        name: CustomHelpGoDeathMT02
+    - text: "!!!"
+  HelpEnemy_03:
+    - control:
+        kind: animation
+        name: CustomHelpGoDeathMT03
+    - text: "!!!"
+  HelpEnemy_04:
+    - control:
+        kind: animation
+        name: CustomHelpGoDeathMT04
+    - text: "!!!"
+  HelpStrage_00:
+    - control:
+        kind: animation
+        name: CustomHelpStrage00
+    - text: Somebody!
+  HelpStrage_01:
+    - control:
+        kind: animation
+        name: CustomHelpStrage01
+    - text: Help me!
+  HelpStrage_02:
+    - control:
+        kind: animation
+        name: CustomHelpStrage02
+    - text: "I can't get out!"
+  HelpStrage_03:
+    - control:
+        kind: animation
+        name: CustomHelpStrage03
+    - text: "...!"
+  HelpStrage_04:
+    - control:
+        kind: animation
+        name: CustomHelpStrage04
+    - text: "..."
+  PiyoPiyo_00:
+    - text: " "
+  PiyoPiyo_01:
+    - text: " "
+  PiyoPiyo_02:
+    - text: " "
+  Search_00:
+    - control:
+        kind: animation
+        name: CustomSearch00
+    - text: "!"
+  Search_01:
+    - control:
+        kind: animation
+        name: CustomSearch01
+    - text: This is bad!
+  Search_02:
+    - control:
+        kind: animation
+        name: CustomSearch02
+    - text: It saw us!
+  Search_03:
+    - control:
+        kind: animation
+        name: CustomSearch03
+    - text: "!"
+  Search_04:
+    - control:
+        kind: animation
+        name: CustomSearch04
+    - text: Watch out!
+  WhistleGo_00:
+    - control:
+        kind: animation
+        name: CustomWhistleGo00
+    - text: All right!
+  WhistleGo_01:
+    - control:
+        kind: animation
+        name: CustomWhistleGo01
+    - text: OK!
+  WhistleGo_02:
+    - control:
+        kind: animation
+        name: CustomWhistleGo02
+    - text: Coming!
+  WhistleGo_03:
+    - control:
+        kind: animation
+        name: CustomWhistleGo03
+    - text: Ready!
+  WhistleGo_04:
+    - control:
+        kind: animation
+        name: CustomWhistleGo04
+    - text: Hyup!
+  WhistleStop_00:
+    - control:
+        kind: animation
+        name: CustomWhistleStop00
+    - text: Right!
+  WhistleStop_01:
+    - control:
+        kind: animation
+        name: CustomWhistleStop01
+    - text: Yup!
+  WhistleStop_02:
+    - control:
+        kind: animation
+        name: CustomWhistleStop02
+    - text: Ope!
+  WhistleStop_03:
+    - control:
+        kind: animation
+        name: CustomWhistleStop03
+    - text: Hup!
+  WhistleStop_04:
+    - control:
+        kind: animation
+        name: CustomWhistleStop04
+    - text: Ho!

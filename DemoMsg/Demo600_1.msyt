@@ -1,0 +1,104 @@
+---
+entries:
+  Demo600_1_000:
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 55
+    - text: "..."
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 60
+    - text: Link...
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 80
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "Link...\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 170
+    - text: "I have witnessed your journey.\nYou have overcome every challenge\nlaid before you.\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 95
+    - text: "Ruta.\nRudania.\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 110
+    - text: "Medoh.\nNaboris.\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 150
+    - text: "All of the Divine Beasts are now free.\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 255
+    - text: "With the strength you have attained,\nI am certain you can unlock the\npowerful force hidden within.\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 230
+    - text: "Return the Sheikah Slate to the terminal\nin the Shrine of Resurrection."

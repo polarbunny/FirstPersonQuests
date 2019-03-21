@@ -1,0 +1,29 @@
+---
+entries:
+  Demo008_0_Text003:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Sheikah Slate confirmed.
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 75
+  Demo008_0_Text004:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Travel Gate registered to map.
+  Demo008_0_Text005:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Access granted.
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 90

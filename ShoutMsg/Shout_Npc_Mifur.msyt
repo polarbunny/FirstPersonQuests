@@ -1,0 +1,52 @@
+---
+entries:
+  talk000:
+    - text: Careful! That spear has a long reach.
+  talk010:
+    - text: Yes!
+  talk011:
+    - text: "It's working!"
+  talk012:
+    - text: Keep it up!
+  talk020:
+    - text: Be cautious.
+  talk021:
+    - text: "Take care, now..."
+  talk022:
+    - text: Are you OK?!
+  talk030:
+    - text: That foe is quite strong.
+  talk031:
+    - text: Protect yourself.
+  talk032:
+    - text: Careful of its attacks.
+  talk040:
+    - text: Attack!
+  talk041:
+    - text: "Now's your chance!"
+  talk042:
+    - text: Go! Now!
+  talk050:
+    - text: You must heal...
+  talk051:
+    - text: I wish I could do more...
+  talk052:
+    - text: Can you heal yourself?
+  talk060:
+    - text: Careful...not much room to operate.
+  talk070:
+    - text: "That's it!"
+  talk071:
+    - text: "Amazing, Link!"
+  talk072:
+    - text: Well done!
+  talk080:
+    - text: Defend yourself against those ice blocks.
+  talk081:
+    - text: Can you break those ice blocks?
+  talk082:
+    - text: "If only you could use the ice\nas a weapon..."
+  talk100:
+    - text: It is my pleasure...
+  talk131:
+    - text: "Mipha's Grace is ready."

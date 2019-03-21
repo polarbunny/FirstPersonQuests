@@ -1,0 +1,68 @@
+---
+entries:
+  ClearTerrorEnemy:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  ClearTerrorGuardian:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 16
+              - 205
+    - text: That was scary...
+  Near:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 1
+    - control:
+        kind: animation
+        name: CustomHot
+    - text: So hot...
+  TerrorAnimal:
+    - text: Get back!
+  TerrorArrow:
+    - text: Please stop!
+  TerrorBomb:
+    - text: WHOA NOW!
+  TerrorEnemy:
+    - text: Eeeeeeeeek!
+  TerrorExplosion:
+    - text: Haaaaeeeeee!
+  TerrorFire:
+    - text: "I don't like fire!"
+  TerrorGuardian:
+    - text: Hyeeeeeeehh!
+  TerrorHorse:
+    - text: Whoa!
+  TerrorImpulse:
+    - text: Ohhh!
+  TerrorInsect:
+    - text: NOT BEES! AHHHH!
+  TerrorLightning:
+    - text: AHHH!
+  TerrorSword:
+    - text: Owww!
+  talk_03:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 20
+    - text: "WOW! You came to the middle of\nnowhere in this weather just to see me?"
+  talk_26:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "This area gets super hot during the day,\nbut I won't fall to the heat!"

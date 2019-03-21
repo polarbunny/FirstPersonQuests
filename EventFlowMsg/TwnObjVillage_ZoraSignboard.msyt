@@ -1,0 +1,22 @@
+---
+entries:
+  Talk_Kanban_H-4_003:
+    - text: "Zora's Domain ahead "
+    - control:
+        kind: icon
+        icon: right_arrow
+  Talk_Kanban_I-4_000:
+    - control:
+        kind: icon
+        icon: left_arrow
+    - text: " Shortcut to Ploymus Mountain\n                        East Reservoir Lake "
+    - control:
+        kind: icon
+        icon: right_arrow
+  Talk_Kanban_I-4_Raijyu01:
+    - control:
+        kind: icon
+        icon: left_arrow
+    - text: " Shatterback Point this way"
+  Talk_Kanban_I-4_Raijyu02:
+    - text: JUMP AT YOUR OWN RISK!

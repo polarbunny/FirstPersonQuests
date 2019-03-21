@@ -1,0 +1,88 @@
+---
+entries:
+  sinjyu_clear_04:
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 101
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "..."
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 109
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: Link...
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 49
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "Link.\n\n\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 292
+    - text: "Thanks to you, all of the Divine Beasts\nhave returned to us and the spirits\nof the Champions are free.\n"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 165
+    - text: "We will all be awaiting your clash with\nGanon at Hyrule Castle."

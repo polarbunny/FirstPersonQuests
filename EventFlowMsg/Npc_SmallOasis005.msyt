@@ -1,0 +1,35 @@
+---
+entries:
+  Talk006:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 0
+    - text: "I never could figure out how to\nsneak in..."
+  Talk007:
+    - control:
+        kind: sound
+        unknown:
+          - 10
+          - 0
+    - text: "Oh, wow! You're really cute!\n\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 1
+    - text: I mean...um...
+    - control:
+        kind: pause
+        length: long
+    - text: " Oh, geez, I don't know\nwhy I just up and said that..."
+  Talk008:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 31
+              - 205
+    - text: Zzzmmm...

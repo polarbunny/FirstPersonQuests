@@ -1,0 +1,26 @@
+---
+entries:
+  Demo177_1_Text005:
+    - text: "And who might you be? "
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - text: The Zora king is not accepting visitors at this time.
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - text: I shall escort you out.
+  Demo177_1_Text006:
+    - text: "Pardon my manners, but are you a Hylian?!"
+  Demo177_1_Text007:
+    - text: "Why didn't you say so in the first place?! "
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - text: "Please, please, come in!"

@@ -1,0 +1,113 @@
+---
+entries:
+  ClearTerrorEnemy_00:
+    - text: Phew...
+  ClearTerrorEnemy_01:
+    - text: That was close...
+  ClearTerrorEnemy_02:
+    - text: Hoh...
+  ClearTerrorGuardian_00:
+    - text: Phew... Safe at last...
+  ClearTerrorGuardian_01:
+    - text: Phew...
+  ClearTerrorGuardian_02:
+    - text: That was close...
+  NakedPlayer_00:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 17
+              - 205
+    - text: Wha... No clothes?
+  NakedPlayer_01:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 17
+              - 205
+    - text: "What's the deal here..."
+  NakedPlayer_02:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 17
+              - 205
+    - text: Maybe...cover up a little?
+  TerrorAnimal_00:
+    - text: Nooo!
+  TerrorAnimal_01:
+    - text: Yikes!
+  TerrorAnimal_02:
+    - text: Ruuuuun!
+  TerrorArrow_00:
+    - text: Stop playing around!
+  TerrorArrow_01:
+    - text: Stop it!
+  TerrorArrow_02:
+    - text: What is wrong with you?!
+  TerrorBomb_00:
+    - text: Huh-what?
+  TerrorBomb_01:
+    - text: Hm?
+  TerrorBomb_02:
+    - text: Yikes!
+  TerrorEnemy_00:
+    - text: Yikes! Help!
+  TerrorEnemy_01:
+    - text: "Somebody, please!"
+  TerrorEnemy_02:
+    - text: Oh nooooo!
+  TerrorExplosion_00:
+    - text: Yyyyikes!
+  TerrorExplosion_01:
+    - text: Waaah!
+  TerrorExplosion_02:
+    - text: Urrrrrk!
+  TerrorFire_00:
+    - text: Hot!
+  TerrorFire_01:
+    - text: "That's hot!"
+  TerrorFire_02:
+    - text: Waaah!
+  TerrorGuardian_00:
+    - text: Run awaaay!
+  TerrorGuardian_01:
+    - text: Aiiiie! Help meee!
+  TerrorGuardian_02:
+    - text: Run for your life!
+  TerrorHorse_00:
+    - text: Yikes!
+  TerrorHorse_01:
+    - text: "Hm, what?"
+  TerrorHorse_02:
+    - text: Hey!
+  TerrorImpulse_00:
+    - text: Yeeep!
+  TerrorImpulse_01:
+    - text: Waaah!
+  TerrorImpulse_02:
+    - text: Yyyyikes!
+  TerrorInsect_00:
+    - text: Eewwww!
+  TerrorInsect_01:
+    - text: Yyyyikes!
+  TerrorInsect_02:
+    - text: Waaah!
+  TerrorLightning_00:
+    - text: Yyyyikes!
+  TerrorLightning_01:
+    - text: Waaah!
+  TerrorLightning_02:
+    - text: Yeeeeek!
+  TerrorSword_00:
+    - text: Kyah!
+  TerrorSword_01:
+    - text: Stop it!
+  TerrorSword_02:
+    - text: Nooo!

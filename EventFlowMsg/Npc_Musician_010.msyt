@@ -1,0 +1,63 @@
+---
+entries:
+  Talk08:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 11
+    - text: "Ah, we meet yet again!"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nHow are you holding up?\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 1
+    - text: "In case you were wondering about the\nsong I perform at the stables,"
+    - control:
+        kind: pause
+        length: short
+    - text: " there are\nmany theories about its origin."
+    - control:
+        kind: pause
+        length: long
+    - text: "\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "But according to my teacher, it was a\nsong performed by the ancient hero\nto call to his horse companion.\n"
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 9
+    - text: "If you ever feel like hearing it, feel free\nto drop by."
+    - control:
+        kind: pause
+        length: short
+    - text: "\n\nAnyway, time to get back to it..."
+    - control:
+        kind: pause
+        length: long
+  TerrorArrow:
+    - text: Stop it!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  TerrorFire:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorHorse:
+    - text: Whoa!
+  TerrorSword:
+    - text: Knock it off!

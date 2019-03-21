@@ -1,0 +1,70 @@
+---
+entries:
+  OP_DRC05:
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 434
+    - text: Link...
+    - control:
+        kind: raw
+        one:
+          zero:
+            field_1: 4
+            field_2: 60
+    - text: " You are the light—"
+    - control:
+        kind: raw
+        one:
+          zero:
+            field_1: 4
+            field_2: 60
+    - text: our light—
+    - control:
+        kind: raw
+        one:
+          zero:
+            field_1: 4
+            field_2: 60
+    - text: "that\nmust shine upon Hyrule once again."
+    - control:
+        kind: raw
+        one:
+          zero:
+            field_1: 4
+            field_2: 125
+    - text: "\nNow, go..."
+  talk00:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Authenticating...
+  talk01:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Sheikah Slate confirmed.
+  talk02:
+    - text: "Hold the "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: Sheikah Slate
+    - control:
+        kind: reset_colour
+    - text: " up to the\npedestal. "
+    - control:
+        kind: raw
+        one:
+          zero:
+            field_1: 4
+            field_2: 105
+    - text: That will show you the way.
+    - control:
+        kind: raw
+        one:
+          zero:
+            field_1: 4
+            field_2: 142

@@ -1,0 +1,208 @@
+---
+entries:
+  AllSpeed_Desc:
+    - text: "Grants a low-level movement-speed boost.\n"
+  AllSpeed_Desc_02:
+    - text: "Grants a mid-level movement-speed boost.\n"
+  AllSpeed_Desc_03:
+    - text: "Grants a high-level movement-speed boost.\n"
+  AllSpeed_MedicineDesc:
+    - text: "Grants a low-level haste effect, which\nboosts your movement speed while\nrunning, swimming, or climbing."
+  AllSpeed_MedicineDesc_02:
+    - text: "Grants a mid-level haste effect, which\nboosts your movement speed while\nrunning, swimming, or climbing."
+  AllSpeed_MedicineDesc_03:
+    - text: "Grants a high-level haste effect, which\nboosts your movement speed while\nrunning, swimming, or climbing."
+  AllSpeed_Name:
+    - text: "Hasty "
+  AllSpeed_Name_Feminine:
+    - text: "Hasty "
+  AllSpeed_Name_Masculine:
+    - text: "Hasty "
+  AllSpeed_Name_Neuter:
+    - text: "Hasty "
+  AllSpeed_Name_Plural:
+    - text: "Hasty "
+  AttackUp_Desc:
+    - text: "Grants a low-level attack-power boost.\n"
+  AttackUp_Desc_02:
+    - text: "Grants a mid-level attack-power boost.\n"
+  AttackUp_Desc_03:
+    - text: "Grants a high-level attack-power boost.\n"
+  AttackUp_MedicineDesc:
+    - text: "Grants a low-level might effect, which\nstrengthens your body and mind to boost\nyour attack power with all weapons."
+  AttackUp_MedicineDesc_02:
+    - text: "Grants a mid-level might effect, which\nstrengthens your body and mind to boost\nyour attack power with all weapons."
+  AttackUp_MedicineDesc_03:
+    - text: "Grants a high-level might effect, which\nstrengthens your body and mind to boost\nyour attack power with all weapons."
+  AttackUp_Name:
+    - text: "Mighty "
+  AttackUp_Name_Feminine:
+    - text: "Mighty "
+  AttackUp_Name_Masculine:
+    - text: "Mighty "
+  AttackUp_Name_Neuter:
+    - text: "Mighty "
+  AttackUp_Name_Plural:
+    - text: "Mighty "
+  DefenseUp_Desc:
+    - text: "Grants a low-level defense boost.\n"
+  DefenseUp_Desc_02:
+    - text: "Grants a mid-level defense boost.\n"
+  DefenseUp_Desc_03:
+    - text: "Grants a high-level defense boost.\n"
+  DefenseUp_MedicineDesc:
+    - text: "Grants a low-level toughness effect, which\nfortifies your bones to strengthen your\ndefense. Best to use before facing off\nagainst hard-hitting enemies."
+  DefenseUp_MedicineDesc_02:
+    - text: "Grants a mid-level toughness effect, which\nfortifies your bones to strengthen your\ndefense. Best to use before facing off\nagainst hard-hitting enemies."
+  DefenseUp_MedicineDesc_03:
+    - text: "Grants a high-level toughness effect, which\nfortifies your bones to strengthen your\ndefense. Best to use before facing off\nagainst hard-hitting enemies."
+  DefenseUp_Name:
+    - text: "Tough "
+  DefenseUp_Name_Feminine:
+    - text: "Tough "
+  DefenseUp_Name_Masculine:
+    - text: "Tough "
+  DefenseUp_Name_Neuter:
+    - text: "Tough "
+  DefenseUp_Name_Plural:
+    - text: "Tough "
+  ExGutsMaxUp_Desc:
+    - text: "Restores and overfills your Stamina Wheel.\n"
+  ExGutsMaxUp_MedicineDesc:
+    - text: "Restores stamina and temporarily extends\nyour Stamina Wheel. The additional stamina\nwill disappear as it's used."
+  ExGutsMaxUp_Name:
+    - text: "Enduring "
+  ExGutsMaxUp_Name_Feminine:
+    - text: "Enduring "
+  ExGutsMaxUp_Name_Masculine:
+    - text: "Enduring "
+  ExGutsMaxUp_Name_Neuter:
+    - text: "Enduring "
+  ExGutsMaxUp_Name_Plural:
+    - text: "Enduring "
+  Fireproof_Desc:
+    - text: "Grants a fireproof effect, protecting you from\ncatching fire in hot environments.\n"
+  Fireproof_Desc_02:
+    - text: "Grants a high-level fireproof effect, protecting\nyou from catching fire in hot environments.\n"
+  Fireproof_MedicineDesc:
+    - text: "Grants a fireproof effect, which prevents your\nbody from catching fire.\nBe sure to pack this when venturing out\nto explore Death Mountain."
+  Fireproof_MedicineDesc_02:
+    - text: "Grants a high-level fireproof effect, which\nprevents your body from catching fire.\nBe sure to pack this when venturing out\nto explore Death Mountain."
+  Fireproof_Name:
+    - text: "Fireproof "
+  Fireproof_Name_Feminine:
+    - text: "Fireproof "
+  Fireproof_Name_Masculine:
+    - text: "Fireproof "
+  Fireproof_Name_Neuter:
+    - text: "Fireproof "
+  Fireproof_Name_Plural:
+    - text: "Fireproof "
+  GutsRecover_Desc:
+    - text: "Instantly refills some of your Stamina Wheel.\n"
+  GutsRecover_MedicineDesc:
+    - text: "Restores your stamina, which is used when\nperforming physical actions such as \nclimbing walls or swimming."
+  GutsRecover_Name:
+    - text: "Energizing "
+  GutsRecover_Name_Feminine:
+    - text: "Energizing "
+  GutsRecover_Name_Masculine:
+    - text: "Energizing "
+  GutsRecover_Name_Neuter:
+    - text: "Energizing "
+  GutsRecover_Name_Plural:
+    - text: "Energizing "
+  LifeMaxUp_Desc:
+    - text: "Restores your health and temporarily\nincreases your maximum hearts.\n"
+  LifeMaxUp_MedicineDesc:
+    - text: "Restores you to full health and increases\nyour maximum hearts. The additional hearts\nare lost as you take damage."
+  LifeMaxUp_Name:
+    - text: "Hearty "
+  LifeMaxUp_Name_Feminine:
+    - text: "Hearty "
+  LifeMaxUp_Name_Masculine:
+    - text: "Hearty "
+  LifeMaxUp_Name_Neuter:
+    - text: "Hearty "
+  LifeMaxUp_Name_Plural:
+    - text: "Hearty "
+  Quietness_Desc:
+    - text: "Grants a low-level stealth boost.\n"
+  Quietness_Desc_02:
+    - text: "Grants a mid-level stealth boost.\n"
+  Quietness_Desc_03:
+    - text: "Grants a high-level stealth boost.\n"
+  Quietness_MedicineDesc:
+    - text: "Grants a low-level stealth effect, which\ncalms the nerves and silences footfalls.\nAllows you to move about undetected by\nmonsters and animals."
+  Quietness_MedicineDesc_02:
+    - text: "Grants a mid-level stealth effect, which\ncalms the nerves and silences footfalls.\nAllows you to move about undetected by\nmonsters and animals."
+  Quietness_MedicineDesc_03:
+    - text: "Grants a high-level stealth effect, which\ncalms the nerves and silences footfalls.\nAllows you to move about undetected by\nmonsters and animals."
+  Quietness_Name:
+    - text: "Sneaky "
+  Quietness_Name_Feminine:
+    - text: "Sneaky "
+  Quietness_Name_Masculine:
+    - text: "Sneaky "
+  Quietness_Name_Neuter:
+    - text: "Sneaky "
+  Quietness_Name_Plural:
+    - text: "Sneaky "
+  ResistCold_Desc:
+    - text: "Grants low-level cold resistance.\n"
+  ResistCold_Desc_02:
+    - text: "Grants mid-level cold resistance.\n"
+  ResistCold_MedicineDesc:
+    - text: "Grants a low-level warming effect, increasing\nyour resistance to cold environments. Very\nuseful when exploring snow-covered\nmountains."
+  ResistCold_MedicineDesc_02:
+    - text: "Grants a high-level warming effect,\nincreasing your resistance to cold\nenvironments. Very useful when exploring\nsnow-covered mountains."
+  ResistCold_Name:
+    - text: "Spicy "
+  ResistCold_Name_Feminine:
+    - text: "Spicy "
+  ResistCold_Name_Masculine:
+    - text: "Spicy "
+  ResistCold_Name_Neuter:
+    - text: "Spicy "
+  ResistCold_Name_Plural:
+    - text: "Spicy "
+  ResistElectric_Desc:
+    - text: "Grants low-level electricity resistance.\n"
+  ResistElectric_Desc_02:
+    - text: "Grants mid-level electricity resistance.\n"
+  ResistElectric_Desc_03:
+    - text: "Grants high-level electricity resistance.\n"
+  ResistElectric_MedicineDesc:
+    - text: "Grants a low-level resistance to electricity.\nUseful against enemies with electrical\nattacks."
+  ResistElectric_MedicineDesc_02:
+    - text: "Grants a mid-level resistance to electricity.\nUseful against enemies with electrical\nattacks."
+  ResistElectric_MedicineDesc_03:
+    - text: "Grants a high-level resistance to electricity.\nUseful against enemies with electrical\nattacks."
+  ResistElectric_Name:
+    - text: "Electro "
+  ResistElectric_Name_Feminine:
+    - text: "Electro "
+  ResistElectric_Name_Masculine:
+    - text: "Electro "
+  ResistElectric_Name_Neuter:
+    - text: "Electro "
+  ResistElectric_Name_Plural:
+    - text: "Electro "
+  ResistHot_Desc:
+    - text: "Grants low-level heat resistance.\n"
+  ResistHot_Desc_02:
+    - text: "Grants mid-level heat resistance.\n"
+  ResistHot_MedicineDesc:
+    - text: "Grants a low-level cooling effect, raising\nyour body's resistance to heat. Crucial for\nlong journeys through the desert."
+  ResistHot_MedicineDesc_02:
+    - text: "Grants a high-level cooling effect, raising\nyour body's resistance to heat. Crucial for\nlong journeys through the desert."
+  ResistHot_Name:
+    - text: "Chilly "
+  ResistHot_Name_Feminine:
+    - text: "Chilly "
+  ResistHot_Name_Masculine:
+    - text: "Chilly "
+  ResistHot_Name_Neuter:
+    - text: "Chilly "
+  ResistHot_Name_Plural:
+    - text: "Chilly "

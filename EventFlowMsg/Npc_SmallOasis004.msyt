@@ -1,0 +1,352 @@
+---
+entries:
+  "0000":
+    - text: "I'll take the regular."
+  "0001":
+    - text: "Soft, please!"
+  "0002":
+    - text: What makes it soft?
+  "0003":
+    - text: In the morning!
+  "0004":
+    - text: "Around noon, please."
+  "0005":
+    - text: After sunset.
+  "0006":
+    - text: Actually...never mind.
+  "0007":
+    - text: "Actually, never mind."
+  Talk01:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 12
+    - text: "Grrr... We've lost a lot of business ever\nsince that "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: "Divine Beast "
+    - control:
+        kind: reset_colour
+    - text: "started\nstomping out in the desert.\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "The sound of the Divine Beast walking\nmight be loud, but the beds are still\ncomfy. Do you want to stay?"
+  Talk02:
+    - text: "Sav'orq!"
+  Talk03:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 6
+    - text: "OK then, we'll just..."
+    - control:
+        kind: pause
+        length: short
+    - text: " Hey! You haven't\ngot enough money!"
+    - control:
+        kind: pause
+        length: longer
+    - text: " You can't stay if\nyou can't pay..."
+  Talk04:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 4
+    - text: "A "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: "regular bed "
+    - control:
+        kind: reset_colour
+    - text: "it is. We offer a mandatory\nwake-up shout. When would you like it?"
+    - control:
+        kind: choice
+        choice_labels:
+          - 3
+          - 4
+          - 5
+          - 6
+        selected_index: 0
+        cancel_index: 3
+        unknown: 10
+  Talk05:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 4
+    - text: "One "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: "soft bed "
+    - control:
+        kind: reset_colour
+    - text: "coming up! We offer a\nmandatory wake-up shout. When would\nyou like it?"
+    - control:
+        kind: choice
+        choice_labels:
+          - 3
+          - 4
+          - 5
+          - 6
+        selected_index: 0
+        cancel_index: 3
+        unknown: 10
+  Talk06:
+    - text: "OK. Don't oversleep. Sav'orr!"
+  Talk07:
+    - text: "Sleep well. Sav'orr!"
+  Talk08:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 25
+              - 205
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: "Sav'otta!"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nI hope you slept well. "
+    - control:
+        kind: pause
+        length: short
+    - text: "\nTake care and safe travels to you!"
+  Talk09:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 26
+              - 205
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: "Sav'aaq!"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nI hope you slept well. "
+    - control:
+        kind: pause
+        length: short
+    - text: "\nTake care and safe travels to you!"
+  Talk10:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 27
+              - 205
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: "Sav'saaba!"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nI hope you slept well."
+    - control:
+        kind: pause
+        length: short
+    - text: "\nIt's cold outside, so travel safe!"
+  Talk11:
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: "Sav'otta!"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nWasn't that bed the softest?"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nTake care and safe travels to you!"
+  Talk12:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 26
+              - 205
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: "Sav'aaq!"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nWasn't that bed the softest?"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nTake care and safe travels to you!"
+  Talk13:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 27
+              - 205
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: "Sav'saaba!"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nWasn't that bed the softest?"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nIt's cold outside, so travel safe!"
+  Talk14:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "With the Divine Beast gone, you can\nsleep soundly without being woken\nup by constant stomping. Want to stay?"
+  Talk15:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 4
+    - text: "The "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: "soft bed "
+    - control:
+        kind: reset_colour
+    - text: "has been carefully crafted\nfrom Cucco feathers. It's designed to\nleave you full of energy when you wake."
+  Talk16:
+    - text: So? What do you think?
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+          - 2
+          - 7
+        selected_index: 0
+        cancel_index: 3
+        unknown: 10
+  Talk17:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 0
+    - text: "You know, those clothes look quite nice\non you. Even on close examination, you\nlook every bit the fine vai."
+  Talk18:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "The Divine Beast's footsteps can be a\nlittle loud, but the beds are comfortable.\nWould you like to take a rest?"
+  Talk19:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "A "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: regular bed
+    - control:
+        kind: reset_colour
+    - text: " is "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: 20 rupees
+    - control:
+        kind: reset_colour
+    - text: ".\nA "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: soft bed
+    - control:
+        kind: reset_colour
+    - text: " is "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: 40 rupees
+    - control:
+        kind: reset_colour
+    - text: "."
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+          - 2
+          - 7
+        selected_index: 0
+        cancel_index: 3
+        unknown: 10
+  near00:
+    - text: "*SIGH*"
+  near01:
+    - text: "It's finally quiet..."

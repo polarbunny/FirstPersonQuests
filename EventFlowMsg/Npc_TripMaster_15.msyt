@@ -1,0 +1,68 @@
+---
+entries:
+  ClearTerrorEnemy:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  ClearTerrorGuardian:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 16
+              - 205
+    - text: That was scary...
+  Near:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 1
+    - control:
+        kind: animation
+        name: CustomHot
+    - text: Hahhhhhh... Hehhhhhh...
+  TerrorAnimal:
+    - text: Get back!
+  TerrorArrow:
+    - text: Please stop!
+  TerrorBomb:
+    - text: WHOA NOW!
+  TerrorEnemy:
+    - text: Eeeeeeeeek!
+  TerrorExplosion:
+    - text: Haaaaeeeeee!
+  TerrorFire:
+    - text: "I don't like fire!"
+  TerrorGuardian:
+    - text: Hyeeeeeeehh!
+  TerrorHorse:
+    - text: Whoa!
+  TerrorImpulse:
+    - text: Ohhh!
+  TerrorInsect:
+    - text: NOT BEES! AHHHH!
+  TerrorLightning:
+    - text: AHHH!
+  TerrorSword:
+    - text: Owww!
+  talk_03:
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 2
+    - text: Hooooooooo! We meet again!
+  talk_26:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "This heat might kill me but not until I\nclose the deal!"

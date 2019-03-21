@@ -1,0 +1,117 @@
+---
+entries:
+  Npc_oasis019_001:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 2
+    - text: "If you're exhausted from your travels,\nplease consider Hotel Oasis!\n\nNot just a place to rest your head, Hotel\nOasis is home to the fantastic..."
+    - control:
+        kind: pause
+        length: short
+    - text: "\n"
+    - control:
+        kind: set_colour
+        colour: red
+    - text: spa plan
+    - control:
+        kind: reset_colour
+    - text: "!\nStep inside and speak with Romah for\nmore information!"
+  Npc_oasis019_002:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 2
+    - text: "Are you exhausted from your travels,\nma'am? Please consider Hotel Oasis!\n\nI recommend checking out our unique..."
+    - control:
+        kind: pause
+        length: short
+    - text: "\n"
+    - control:
+        kind: set_colour
+        colour: red
+    - text: spa plan
+    - control:
+        kind: reset_colour
+    - text: "! Ranked number one in ways to\nfeel relaxed and beautiful!\nRelax your body and mind at Hotel Oasis!"
+  Npc_oasis019_003:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 2
+    - text: "Stop right where you are! Staying up late\nis bad for your skin, ma'am!\n\nI suggest you step inside and ask about\nour "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: spa plan
+    - control:
+        kind: reset_colour
+    - text: ", known by vai the world\nover!\nIt will heal your mind and body better\nthan anything else!"
+  Npc_oasis019_007:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 1
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 26
+              - 205
+    - text: "Sav'aaq!"
+  Npc_oasis019_008:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 1
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 25
+              - 205
+    - text: "Sav'otta!"
+  Npc_oasis019_009:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 1
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 27
+              - 205
+    - text: "Sav'saaba!"
+  Npc_oasis019_010:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 1
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 28
+              - 205
+    - text: Vasaaq!
+  Npc_oasis019_Near01:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 0
+              - 205
+    - text: Welcome to Hotel Oasis!

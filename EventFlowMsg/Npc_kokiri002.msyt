@@ -1,0 +1,22 @@
+---
+entries:
+  Npc_kokiri002_Talk000:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 34
+    - text: "*yawn*"
+    - control:
+        kind: pause
+        length: long
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - text: You already solved all of the riddles...
+    - control:
+        kind: pause
+        length: long
+    - text: "\nI admit defeat..."

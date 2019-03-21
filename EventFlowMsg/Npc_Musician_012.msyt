@@ -1,0 +1,58 @@
+---
+entries:
+  Challenge000:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 0
+    - text: Ah!
+    - control:
+        kind: pause
+        length: long
+    - text: " You've done well climbing all the way\nup here!\n"
+  Talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 5
+          - 1
+    - text: "Ah! "
+    - control:
+        kind: pause
+        length: long
+    - text: "So \""
+    - control:
+        kind: set_colour
+        colour: red
+    - text: "nothing between you and the\nnight air"
+    - control:
+        kind: reset_colour
+    - text: "\" meant naked!\n\n"
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 11
+    - text: "Boldly standing naked on the pedestal...\nThat's definitely reminiscent of the\nhero of legend.\n"
+    - control:
+        kind: sound
+        unknown:
+          - 1
+          - 1
+    - text: "Take care, and may the light illuminate\nyour path."
+  TerrorArrow:
+    - text: Stop it!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  TerrorFire:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorSword:
+    - text: Knock it off!

@@ -1,0 +1,24 @@
+---
+entries:
+  QL_Rito_KeelSearch_Desc:
+    - text: "Amali's daughter Kheel has disappeared.\n\nShe may have gone to "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: "Warbler's Nest"
+    - control:
+        kind: reset_colour
+    - text: " alone.\nFind Kheel and quell a worried mother's fears."
+  QL_Rito_KeelSearch_Finish:
+    - text: "Amali was relieved to hear that Kheel was only\npracticing her singing at Warbler's Nest.\n\nNow that you've assured her mother, Kheel\nhas a favor for you as well."
+  QL_Rito_KeelSearch_Name:
+    - text: Find Kheel
+  QL_Rito_KeelSearch_Step1:
+    - text: "Kheel was at Warbler's Nest practicing a song.\nLet "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: "Amali "
+    - control:
+        kind: reset_colour
+    - text: "know she's safe."

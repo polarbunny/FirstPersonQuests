@@ -1,0 +1,316 @@
+---
+entries:
+  "0000":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Sacred Ground Ruins
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0001":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Lake Kolomo
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0002":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Ancient Columns
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0003":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Kara Kara Bazaar
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0004":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Eldin Canyon
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0005":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Irch Plain
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0006":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Sanidin Park Ruins
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0007":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: West Necluda
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0008":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Hyrule Castle
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0009":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Spring of Power
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0010":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Lanayru Road - East Gate
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0011":
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 120
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 0
+    - text: Hyrule Field
+    - control:
+        kind: raw
+        zero:
+          one:
+            field_1: 2
+            field_2: 65535
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  "0012":
+    - text: "The Sheikah Slate data has\nbeen damaged."

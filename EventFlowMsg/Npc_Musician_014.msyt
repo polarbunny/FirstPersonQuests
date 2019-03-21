@@ -1,0 +1,30 @@
+---
+entries:
+  Challenge000:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 11
+    - text: "Ah, I knew we'd meet again!"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nThough, I never imagined it would be\nhere..."
+  TerrorArrow:
+    - text: Stop it!
+  TerrorExplosion:
+    - text: WAAAAAA!
+  TerrorFire:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 20
+              - 205
+    - text: Ack!
+  TerrorHorse:
+    - text: Watch it!
+  TerrorSword:
+    - text: Knock it off!

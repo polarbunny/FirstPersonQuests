@@ -1,0 +1,29 @@
+---
+entries:
+  "0000":
+    - text: Yes.
+  "0001":
+    - text: No.
+  Talk01:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Place the Sheikah Slate in the pedestal.
+  Talk02:
+    - control:
+        kind: animation
+        name: Activate
+    - text: "Sheikah Slate confirmed.\nPlease beware of tremors..."
+  Talk03:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Return to the Shrine of Resurrection?
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6

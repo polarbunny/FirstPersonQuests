@@ -1,0 +1,122 @@
+---
+entries:
+  "0000":
+    - text: "Let's hear it."
+  "0001":
+    - text: "That's all right."
+  Npc_Musician_003_R_001:
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 220
+    - control:
+        kind: raw
+        one:
+          one:
+            field_1: 4
+            field_2: 1053609165
+    - text: "As light shines from the northwest skies,"
+    - control:
+        kind: pause
+        length: longer
+    - text: "\nFrom the tower's shadow an arrow flies."
+    - control:
+        kind: pause
+        length: longer
+  Npc_Musician_003_R_005:
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 270
+    - control:
+        kind: raw
+        one:
+          one:
+            field_1: 4
+            field_2: 1050253722
+    - text: "Pierce heaven's light to reveal "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: the prize
+    - control:
+        kind: reset_colour
+    - text: "."
+  Npc_Musician_003_R_006:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "I still don't quite understand the lyrics, \nbut knowing my teacher, they're the key\nto revealing a secret.\nBest of luck, and may the light illuminate\nyour path."
+    - control:
+        kind: pause
+        length: long
+  Npc_Musician_003_R_008:
+    - control:
+        kind: sound
+        unknown:
+          - 3
+          - 13
+    - text: "Mm? "
+    - control:
+        kind: pause
+        length: short
+    - text: "Ah, forgive me. "
+    - control:
+        kind: pause
+        length: short
+    - text: "I was lost in a song\nwritten by my late teacher."
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "He wrote it for the hero who fell to the\nCalamity 100 years ago..."
+    - control:
+        kind: raw
+        zero:
+          four:
+            field_1: 0
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 16
+    - text: "So much time has passed, and yet the\nhero has not yet returned. But my\nteacher always kept faith.\n"
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "I hope to play the song for the hero\nsomeday, so I practice it often."
+  Npc_Musician_003_R_009:
+    - text: What if...
+    - control:
+        kind: pause
+        length: long
+    - text: " No, but then..."
+    - control:
+        kind: pause
+        length: long
+  Npc_Musician_003_R_010:
+    - control:
+        kind: sound
+        unknown:
+          - 10
+          - 19
+    - text: Hmm?
+    - control:
+        kind: pause
+        length: long
+  Npc_Musician_003_R_Near:
+    - text: ♪Hmmm hm hmmm...♪

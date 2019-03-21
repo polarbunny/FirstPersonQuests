@@ -1,0 +1,18 @@
+---
+entries:
+  Demo169_0_Text002:
+    - text: "..."
+  Demo169_0_Text003:
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "...Open your eyes..."
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100

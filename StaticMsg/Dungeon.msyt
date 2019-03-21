@@ -1,0 +1,944 @@
+---
+entries:
+  Dungeon000:
+    - text: Tah Muhl Shrine
+  Dungeon000_master:
+    - text: Tah Muhl
+  Dungeon000_sub:
+    - text: Passing the Flame
+  Dungeon001:
+    - text: Jee Noh Shrine
+  Dungeon001_master:
+    - text: Jee Noh
+  Dungeon001_sub:
+    - text: On the Move
+  Dungeon002:
+    - text: Sah Dahaj Shrine
+  Dungeon002_master:
+    - text: Sah Dahaj
+  Dungeon002_sub:
+    - text: Power of Fire
+  Dungeon003:
+    - text: Hawa Koth Shrine
+  Dungeon003_master:
+    - text: Hawa Koth
+  Dungeon003_sub:
+    - text: The Current Solution
+  Dungeon004:
+    - text: Zalta Wa Shrine
+  Dungeon004_master:
+    - text: Zalta Wa
+  Dungeon004_sub:
+    - text: Two Orbs to Guide You
+  Dungeon005:
+    - text: "Ne'ez Yohma Shrine"
+  Dungeon005_master:
+    - text: "Ne'ez Yohma"
+  Dungeon005_sub:
+    - text: Pushing Power
+  Dungeon006:
+    - text: Yah Rin Shrine
+  Dungeon006_master:
+    - text: Yah Rin
+  Dungeon006_sub:
+    - text: A Weighty Decision
+  Dungeon007:
+    - text: Bosh Kala Shrine
+  Dungeon007_master:
+    - text: Bosh Kala
+  Dungeon007_sub:
+    - text: The Wind Guides You
+  Dungeon008:
+    - text: Bareeda Naag Shrine
+  Dungeon008_master:
+    - text: Bareeda Naag
+  Dungeon008_sub:
+    - text: Cannon
+  Dungeon009:
+    - text: Owa Daim Shrine
+  Dungeon009_master:
+    - text: Owa Daim
+  Dungeon009_sub:
+    - text: Stasis Trial
+  Dungeon010:
+    - text: Kay Noh Shrine
+  Dungeon010_master:
+    - text: Kay Noh
+  Dungeon010_sub:
+    - text: Power of Electricity
+  Dungeon011:
+    - text: Monya Toma Shrine
+  Dungeon011_master:
+    - text: Monya Toma
+  Dungeon011_sub:
+    - text: Drawing Parabolas
+  Dungeon012:
+    - text: Voo Lota Shrine
+  Dungeon012_master:
+    - text: Voo Lota
+  Dungeon012_sub:
+    - text: The Winding Route
+  Dungeon013:
+    - text: Katosa Aug Shrine
+  Dungeon013_master:
+    - text: Katosa Aug
+  Dungeon013_sub:
+    - text: Katosa Aug Apparatus
+  Dungeon014:
+    - text: Kam Urog Shrine
+  Dungeon014_master:
+    - text: Kam Urog
+  Dungeon014_sub:
+    - text: Trial of Passage
+  Dungeon015:
+    - text: Toto Sah Shrine
+  Dungeon015_master:
+    - text: Toto Sah
+  Dungeon015_sub:
+    - text: Toto Sah Apparatus
+  Dungeon016:
+    - text: Rucco Maag Shrine
+  Dungeon016_master:
+    - text: Rucco Maag
+  Dungeon016_sub:
+    - text: Five Flames
+  Dungeon017:
+    - text: Shee Vaneer Shrine
+  Dungeon017_master:
+    - text: Shee Vaneer
+  Dungeon017_sub:
+    - text: Twin Memories
+  Dungeon018:
+    - text: Rok Uwog Shrine
+  Dungeon018_master:
+    - text: Rok Uwog
+  Dungeon018_sub:
+    - text: Power of Reach
+  Dungeon019:
+    - text: "Dow Na'eh Shrine"
+  Dungeon019_master:
+    - text: "Dow Na'eh"
+  Dungeon019_sub:
+    - text: Three Boxes
+  Dungeon020:
+    - text: Sheem Dagoze Shrine
+  Dungeon020_master:
+    - text: Sheem Dagoze
+  Dungeon020_sub:
+    - text: Moving in Parallel
+  Dungeon021:
+    - text: Toh Yahsa Shrine
+  Dungeon021_master:
+    - text: Toh Yahsa
+  Dungeon021_sub:
+    - text: Buried Secrets
+  Dungeon022:
+    - text: Keo Ruug Shrine
+  Dungeon022_master:
+    - text: Keo Ruug
+  Dungeon022_sub:
+    - text: Fateful Stars
+  Dungeon023:
+    - text: Sheh Rata Shrine
+  Dungeon023_master:
+    - text: Sheh Rata
+  Dungeon023_sub:
+    - text: Speed of Light
+  Dungeon024:
+    - text: Mezza Lo Shrine
+  Dungeon024_master:
+    - text: Mezza Lo
+  Dungeon024_sub:
+    - text: Ancient Trifecta
+  Dungeon025:
+    - text: Kayra Mah Shrine
+  Dungeon025_master:
+    - text: Kayra Mah
+  Dungeon025_sub:
+    - text: Greedy Hill
+  Dungeon026:
+    - text: "Shae Mo'sah Shrine"
+  Dungeon026_master:
+    - text: "Shae Mo'sah"
+  Dungeon026_sub:
+    - text: Swinging Flames
+  Dungeon027:
+    - text: Rota Ooh Shrine
+  Dungeon027_master:
+    - text: Rota Ooh
+  Dungeon027_sub:
+    - text: Passing of the Gates
+  Dungeon028:
+    - text: Shora Hah Shrine
+  Dungeon028_master:
+    - text: Shora Hah
+  Dungeon028_sub:
+    - text: Blue Flame
+  Dungeon029:
+    - text: Hila Rao Shrine
+  Dungeon029_master:
+    - text: Hila Rao
+  Dungeon029_sub:
+    - text: Drifting
+  Dungeon030:
+    - text: Joloo Nah Shrine
+  Dungeon030_master:
+    - text: Joloo Nah
+  Dungeon030_sub:
+    - text: Joloo Nah Apparatus
+  Dungeon031:
+    - text: "Mo'a Keet Shrine"
+  Dungeon031_master:
+    - text: "Mo'a Keet"
+  Dungeon031_sub:
+    - text: Metal Makes a Path
+  Dungeon032:
+    - text: Dako Tah Shrine
+  Dungeon032_master:
+    - text: Dako Tah
+  Dungeon032_sub:
+    - text: Electric Path
+  Dungeon033:
+    - text: Daka Tuss Shrine
+  Dungeon033_master:
+    - text: Daka Tuss
+  Dungeon033_sub:
+    - text: Sunken Scoop
+  Dungeon034:
+    - text: Kah Yah Shrine
+  Dungeon034_master:
+    - text: Kah Yah
+  Dungeon034_sub:
+    - text: Quick Thinking
+  Dungeon035:
+    - text: "Akh Va'quot Shrine"
+  Dungeon035_master:
+    - text: "Akh Va'quot"
+  Dungeon035_sub:
+    - text: Windmills
+  Dungeon036:
+    - text: Sho Dantu Shrine
+  Dungeon036_master:
+    - text: Sho Dantu
+  Dungeon036_sub:
+    - text: Two Bombs
+  Dungeon037:
+    - text: Shae Loya Shrine
+  Dungeon037_master:
+    - text: Shae Loya
+  Dungeon037_sub:
+    - text: Aim for the Moment
+  Dungeon038:
+    - text: Oman Au Shrine
+  Dungeon038_master:
+    - text: Oman Au
+  Dungeon038_sub:
+    - text: Magnesis Trial
+  Dungeon039:
+    - text: Myahm Agana Shrine
+  Dungeon039_master:
+    - text: Myahm Agana
+  Dungeon039_sub:
+    - text: Myahm Agana Apparatus
+  Dungeon040:
+    - text: "Kaam Ya'tak Shrine"
+  Dungeon040_master:
+    - text: "Kaam Ya'tak"
+  Dungeon040_sub:
+    - text: Trial of Power
+  Dungeon041:
+    - text: Ja Baij Shrine
+  Dungeon041_master:
+    - text: Ja Baij
+  Dungeon041_sub:
+    - text: Bomb Trial
+  Dungeon042:
+    - text: Rin Oyaa Shrine
+  Dungeon042_master:
+    - text: Rin Oyaa
+  Dungeon042_sub:
+    - text: Directing the Wind
+  Dungeon043:
+    - text: Kuh Takkar Shrine
+  Dungeon043_master:
+    - text: Kuh Takkar
+  Dungeon043_sub:
+    - text: Melting Ice Hazard
+  Dungeon044:
+    - text: Shee Venath Shrine
+  Dungeon044_master:
+    - text: Shee Venath
+  Dungeon044_sub:
+    - text: Twin Memories
+  Dungeon045:
+    - text: Ha Dahamar Shrine
+  Dungeon045_master:
+    - text: Ha Dahamar
+  Dungeon045_sub:
+    - text: The Water Guides
+  Dungeon046:
+    - text: Shada Naw Shrine
+  Dungeon046_master:
+    - text: Shada Naw
+  Dungeon046_sub:
+    - text: Red Giveaway
+  Dungeon047:
+    - text: Ree Dahee Shrine
+  Dungeon047_master:
+    - text: Ree Dahee
+  Dungeon047_sub:
+    - text: Timing Is Critical
+  Dungeon048:
+    - text: Ze Kasho Shrine
+  Dungeon048_master:
+    - text: Ze Kasho
+  Dungeon048_sub:
+    - text: Ze Kasho Apparatus
+  Dungeon049:
+    - text: Kaya Wan Shrine
+  Dungeon049_master:
+    - text: Kaya Wan
+  Dungeon049_sub:
+    - text: Shields from Water
+  Dungeon050:
+    - text: Shai Utoh Shrine
+  Dungeon050_master:
+    - text: Shai Utoh
+  Dungeon050_sub:
+    - text: Halt the Tilt
+  Dungeon051:
+    - text: Maka Rah Shrine
+  Dungeon051_master:
+    - text: Maka Rah
+  Dungeon051_sub:
+    - text: Steady Thy Heart
+  Dungeon052:
+    - text: "Gee Ha'rah Shrine"
+  Dungeon052_master:
+    - text: "Gee Ha'rah"
+  Dungeon052_sub:
+    - text: Tandem
+  Dungeon053:
+    - text: Sha Warvo Shrine
+  Dungeon053_master:
+    - text: Sha Warvo
+  Dungeon053_sub:
+    - text: Path of Hidden Winds
+  Dungeon054:
+    - text: "Ka'o Makagh Shrine"
+  Dungeon054_master:
+    - text: "Ka'o Makagh"
+  Dungeon054_sub:
+    - text: Metal Doors Open the Way
+  Dungeon055:
+    - text: Dunba Taag Shrine
+  Dungeon055_master:
+    - text: Dunba Taag
+  Dungeon055_sub:
+    - text: Build and Release
+  Dungeon056:
+    - text: Mirro Shaz Shrine
+  Dungeon056_master:
+    - text: Mirro Shaz
+  Dungeon056_sub:
+    - text: Tempered Power
+  Dungeon057:
+    - text: Wahgo Katta Shrine
+  Dungeon057_master:
+    - text: Wahgo Katta
+  Dungeon057_sub:
+    - text: Metal Connections
+  Dungeon058:
+    - text: Mogg Latan Shrine
+  Dungeon058_master:
+    - text: Mogg Latan
+  Dungeon058_sub:
+    - text: Synced Swing
+  Dungeon059:
+    - text: Kah Okeo Shrine
+  Dungeon059_master:
+    - text: Kah Okeo
+  Dungeon059_sub:
+    - text: Wind Guide
+  Dungeon060:
+    - text: Daqo Chisay Shrine
+  Dungeon060_master:
+    - text: Daqo Chisay
+  Dungeon060_sub:
+    - text: The Whole Picture
+  Dungeon061:
+    - text: Shoda Sah Shrine
+  Dungeon061_master:
+    - text: Shoda Sah
+  Dungeon061_sub:
+    - text: Impeccable Timing
+  Dungeon062:
+    - text: Sha Gehma Shrine
+  Dungeon062_master:
+    - text: Sha Gehma
+  Dungeon062_sub:
+    - text: Shift and Lock
+  Dungeon063:
+    - text: Kema Zoos Shrine
+  Dungeon063_master:
+    - text: Kema Zoos
+  Dungeon063_sub:
+    - text: A Delayed Puzzle
+  Dungeon064:
+    - text: Daqa Koh Shrine
+  Dungeon064_master:
+    - text: Daqa Koh
+  Dungeon064_sub:
+    - text: Stalled Flight
+  Dungeon065:
+    - text: Keh Namut Shrine
+  Dungeon065_master:
+    - text: Keh Namut
+  Dungeon065_sub:
+    - text: Cryonis Trial
+  Dungeon066:
+    - text: Kah Mael Shrine
+  Dungeon066_master:
+    - text: Kah Mael
+  Dungeon066_sub:
+    - text: Drop and Rise
+  Dungeon067:
+    - text: Qua Raym Shrine
+  Dungeon067_master:
+    - text: Qua Raym
+  Dungeon067_sub:
+    - text: A Balanced Approach
+  Dungeon068:
+    - text: Ya Naga Shrine
+  Dungeon068_master:
+    - text: Ya Naga
+  Dungeon068_sub:
+    - text: Shatter the Heavens
+  Dungeon069:
+    - text: Ishto Soh Shrine
+  Dungeon069_master:
+    - text: Ishto Soh
+  Dungeon069_sub:
+    - text: "Bravery's Grasp"
+  Dungeon070:
+    - text: Soh Kofi Shrine
+  Dungeon070_master:
+    - text: Soh Kofi
+  Dungeon070_sub:
+    - text: A Minor Test of Strength
+  Dungeon071:
+    - text: Pumaag Nitae Shrine
+  Dungeon071_master:
+    - text: Pumaag Nitae
+  Dungeon071_sub:
+    - text: A Minor Test of Strength
+  Dungeon072:
+    - text: Dah Kaso Shrine
+  Dungeon072_master:
+    - text: Dah Kaso
+  Dungeon072_sub:
+    - text: A Minor Test of Strength
+  Dungeon073:
+    - text: Katah Chuki Shrine
+  Dungeon073_master:
+    - text: Katah Chuki
+  Dungeon073_sub:
+    - text: A Minor Test of Strength
+  Dungeon074:
+    - text: Noya Neha Shrine
+  Dungeon074_master:
+    - text: Noya Neha
+  Dungeon074_sub:
+    - text: A Minor Test of Strength
+  Dungeon075:
+    - text: Dah Hesho Shrine
+  Dungeon075_master:
+    - text: Dah Hesho
+  Dungeon075_sub:
+    - text: A Minor Test of Strength
+  Dungeon076:
+    - text: Sasa Kai Shrine
+  Dungeon076_master:
+    - text: Sasa Kai
+  Dungeon076_sub:
+    - text: A Modest Test of Strength
+  Dungeon077:
+    - text: "Ke'nai Shakah Shrine"
+  Dungeon077_master:
+    - text: "Ke'nai Shakah"
+  Dungeon077_sub:
+    - text: A Modest Test of Strength
+  Dungeon078:
+    - text: Mijah Rokee Shrine
+  Dungeon078_master:
+    - text: Mijah Rokee
+  Dungeon078_sub:
+    - text: A Modest Test of Strength
+  Dungeon079:
+    - text: Namika Ozz Shrine
+  Dungeon079_master:
+    - text: Namika Ozz
+  Dungeon079_sub:
+    - text: A Modest Test of Strength
+  Dungeon080:
+    - text: Shoqa Tatone Shrine
+  Dungeon080_master:
+    - text: Shoqa Tatone
+  Dungeon080_sub:
+    - text: A Modest Test of Strength
+  Dungeon081:
+    - text: Muwo Jeem Shrine
+  Dungeon081_master:
+    - text: Muwo Jeem
+  Dungeon081_sub:
+    - text: A Modest Test of Strength
+  Dungeon082:
+    - text: Chaas Qeta Shrine
+  Dungeon082_master:
+    - text: Chaas Qeta
+  Dungeon082_sub:
+    - text: A Major Test of Strength
+  Dungeon083:
+    - text: "Tena Ko'sah Shrine"
+  Dungeon083_master:
+    - text: "Tena Ko'sah"
+  Dungeon083_sub:
+    - text: A Major Test of Strength
+  Dungeon084:
+    - text: Tutsuwa Nima Shrine
+  Dungeon084_master:
+    - text: Tutsuwa Nima
+  Dungeon084_sub:
+    - text: A Major Test of Strength
+  Dungeon085:
+    - text: Kema Kosassa Shrine
+  Dungeon085_master:
+    - text: Kema Kosassa
+  Dungeon085_sub:
+    - text: A Major Test of Strength
+  Dungeon086:
+    - text: Goma Asaagh Shrine
+  Dungeon086_master:
+    - text: Goma Asaagh
+  Dungeon086_sub:
+    - text: A Major Test of Strength
+  Dungeon087:
+    - text: Mozo Shenno Shrine
+  Dungeon087_master:
+    - text: Mozo Shenno
+  Dungeon087_sub:
+    - text: A Major Test of Strength
+  Dungeon088:
+    - text: Hia Miu Shrine
+  Dungeon088_master:
+    - text: Hia Miu
+  Dungeon088_sub:
+    - text: A Major Test of Strength
+  Dungeon089:
+    - text: "Saas Ko'sah Shrine"
+  Dungeon089_master:
+    - text: "Saas Ko'sah"
+  Dungeon089_sub:
+    - text: A Major Test of Strength
+  Dungeon090:
+    - text: Suma Sahma Shrine
+  Dungeon090_master:
+    - text: Suma Sahma
+  Dungeon090_sub:
+    - text: "Suma Sahma's Blessing"
+  Dungeon091:
+    - text: Gorae Torr Shrine
+  Dungeon091_master:
+    - text: Gorae Torr
+  Dungeon091_sub:
+    - text: "Gorae Torr's Blessing"
+  Dungeon092:
+    - text: "Maag No'rah Shrine"
+  Dungeon092_master:
+    - text: "Maag No'rah"
+  Dungeon092_sub:
+    - text: "Maag No'rah's Blessing"
+  Dungeon093:
+    - text: Raqa Zunzo Shrine
+  Dungeon093_master:
+    - text: Raqa Zunzo
+  Dungeon093_sub:
+    - text: "Raqa Zunzo's Blessing"
+  Dungeon094:
+    - text: Tho Kayu Shrine
+  Dungeon094_master:
+    - text: Tho Kayu
+  Dungeon094_sub:
+    - text: "Tho Kayu's Blessing"
+  Dungeon095:
+    - text: Kuhn Sidajj Shrine
+  Dungeon095_master:
+    - text: Kuhn Sidajj
+  Dungeon095_sub:
+    - text: "Kuhn Sidajj's Blessing"
+  Dungeon096:
+    - text: Qukah Nata Shrine
+  Dungeon096_master:
+    - text: Qukah Nata
+  Dungeon096_sub:
+    - text: "Qukah Nata's Blessing"
+  Dungeon097:
+    - text: Korgu Chideh Shrine
+  Dungeon097_master:
+    - text: Korgu Chideh
+  Dungeon097_sub:
+    - text: "Korgu Chideh's Blessing"
+  Dungeon098:
+    - text: Daag Chokah Shrine
+  Dungeon098_master:
+    - text: Daag Chokah
+  Dungeon098_sub:
+    - text: "Daag Chokah's Blessing"
+  Dungeon099:
+    - text: "Ta'loh Naeg Shrine"
+  Dungeon099_master:
+    - text: "Ta'loh Naeg"
+  Dungeon099_sub:
+    - text: "Ta'loh Naeg's Teaching"
+  Dungeon100:
+    - text: Keeha Yoog Shrine
+  Dungeon100_master:
+    - text: Keeha Yoog
+  Dungeon100_sub:
+    - text: "Keeha Yoog's Blessing"
+  Dungeon101:
+    - text: Dagah Keek Shrine
+  Dungeon101_master:
+    - text: Dagah Keek
+  Dungeon101_sub:
+    - text: "Dagah Keek's Blessing"
+  Dungeon102:
+    - text: Zuna Kai Shrine
+  Dungeon102_master:
+    - text: Zuna Kai
+  Dungeon102_sub:
+    - text: "Zuna Kai's Blessing"
+  Dungeon103:
+    - text: Dila Maag Shrine
+  Dungeon103_master:
+    - text: Dila Maag
+  Dungeon103_sub:
+    - text: "Dila Maag's Blessing"
+  Dungeon104:
+    - text: Lanno Kooh Shrine
+  Dungeon104_master:
+    - text: Lanno Kooh
+  Dungeon104_sub:
+    - text: "Lanno Kooh's Blessing"
+  Dungeon105:
+    - text: "Tu Ka'loh Shrine"
+  Dungeon105_master:
+    - text: "Tu Ka'loh"
+  Dungeon105_sub:
+    - text: "Tu Ka'loh's Blessing"
+  Dungeon106:
+    - text: Maag Halan Shrine
+  Dungeon106_master:
+    - text: Maag Halan
+  Dungeon106_sub:
+    - text: "Maag Halan's Blessing"
+  Dungeon107:
+    - text: Misae Suma Shrine
+  Dungeon107_master:
+    - text: Misae Suma
+  Dungeon107_sub:
+    - text: "Misae Suma's Blessing"
+  Dungeon108:
+    - text: Ketoh Wawai Shrine
+  Dungeon108_master:
+    - text: Ketoh Wawai
+  Dungeon108_sub:
+    - text: "Ketoh Wawai's Blessing"
+  Dungeon109:
+    - text: Ritaag Zumo Shrine
+  Dungeon109_master:
+    - text: Ritaag Zumo
+  Dungeon109_sub:
+    - text: "Ritaag Zumo's Blessing"
+  Dungeon110:
+    - text: "Korsh O'hu Shrine"
+  Dungeon110_master:
+    - text: "Korsh O'hu"
+  Dungeon110_sub:
+    - text: "Korsh O'hu's Blessing"
+  Dungeon111:
+    - text: Tawa Jinn Shrine
+  Dungeon111_master:
+    - text: Tawa Jinn
+  Dungeon111_sub:
+    - text: "Tawa Jinn's Blessing"
+  Dungeon112:
+    - text: Lakna Rokee Shrine
+  Dungeon112_master:
+    - text: Lakna Rokee
+  Dungeon112_sub:
+    - text: "Lakna Rokee's Blessing"
+  Dungeon113:
+    - text: Shae Katha Shrine
+  Dungeon113_master:
+    - text: Shae Katha
+  Dungeon113_sub:
+    - text: "Shae Katha's Blessing"
+  Dungeon114:
+    - text: Shai Yota Shrine
+  Dungeon114_master:
+    - text: Shai Yota
+  Dungeon114_sub:
+    - text: "Shai Yota's Blessing"
+  Dungeon115:
+    - text: Rona Kachta Shrine
+  Dungeon115_master:
+    - text: Rona Kachta
+  Dungeon115_sub:
+    - text: "Rona Kachta's Blessing"
+  Dungeon116:
+    - text: Qaza Tokki Shrine
+  Dungeon116_master:
+    - text: Qaza Tokki
+  Dungeon116_sub:
+    - text: "Qaza Tokki's Blessing"
+  Dungeon117:
+    - text: "Jitan Sa'mi Shrine"
+  Dungeon117_master:
+    - text: "Jitan Sa'mi"
+  Dungeon117_sub:
+    - text: "Jitan Sa'mi's Blessing"
+  Dungeon118:
+    - text: To Quomo Shrine
+  Dungeon118_master:
+    - text: To Quomo
+  Dungeon118_sub:
+    - text: "To Quomo's Blessing"
+  Dungeon119:
+    - text: "Tahno O'ah Shrine"
+  Dungeon119_master:
+    - text: "Tahno O'ah"
+  Dungeon119_sub:
+    - text: "Tahno O'ah's Blessing"
+  Dungeon120:
+    - text: Yowaka Ita Shrine
+  Dungeon120_master:
+    - text: Yowaka Ita
+  Dungeon120_sub:
+    - text: Collected Soul
+  Dungeon121:
+    - text: Kihiro Moh Shrine
+  Dungeon121_master:
+    - text: Kihiro Moh
+  Dungeon121_sub:
+    - text: Inside the Box
+  Dungeon122:
+    - text: Etsu Korima Shrine
+  Dungeon122_master:
+    - text: Etsu Korima
+  Dungeon122_sub:
+    - text: Path of Light
+  Dungeon123:
+    - text: Rohta Chigah Shrine
+  Dungeon123_master:
+    - text: Rohta Chigah
+  Dungeon123_sub:
+    - text: Stop to Start
+  Dungeon124:
+    - text: Sato Koda Shrine
+  Dungeon124_master:
+    - text: Sato Koda
+  Dungeon124_sub:
+    - text: Support and Guidance
+  Dungeon125:
+    - text: Kee Dafunia Shrine
+  Dungeon125_master:
+    - text: Kee Dafunia
+  Dungeon125_sub:
+    - text: The Melting Point
+  Dungeon126:
+    - text: Mah Eliya Shrine
+  Dungeon126_master:
+    - text: Mah Eliya
+  Dungeon126_sub:
+    - text: Secret Stairway
+  Dungeon127:
+    - text: Noe Rajee Shrine
+  Dungeon127_master:
+    - text: Noe Rajee
+  Dungeon127_sub:
+    - text: The Four Winds
+  Dungeon128:
+    - text: Kiah Toza Shrine
+  Dungeon128_master:
+    - text: Kiah Toza
+  Dungeon128_sub:
+    - text: Master the Orb
+  Dungeon129:
+    - text: Shira Gomar Shrine
+  Dungeon129_master:
+    - text: Shira Gomar
+  Dungeon129_sub:
+    - text: Aim for Stillness
+  Dungeon130:
+    - text: Kamia Omuna Shrine
+  Dungeon130_master:
+    - text: Kamia Omuna
+  Dungeon130_sub:
+    - text: Moving Targets
+  Dungeon131:
+    - text: Rinu Honika Shrine
+  Dungeon131_master:
+    - text: Rinu Honika
+  Dungeon131_sub:
+    - text: Block the Blaze
+  Dungeon132:
+    - text: Sharo Lun Shrine
+  Dungeon132_master:
+    - text: Sharo Lun
+  Dungeon132_sub:
+    - text: Blind Spots
+  Dungeon133:
+    - text: Keive Tala Shrine
+  Dungeon133_master:
+    - text: Keive Tala
+  Dungeon133_sub:
+    - text: Big or Small
+  Dungeon134:
+    - text: Takama Shiri Shrine
+  Dungeon134_master:
+    - text: Takama Shiri
+  Dungeon134_sub:
+    - text: Dual Purpose
+  Dungeon135:
+    - text: Ruvo Korbah Shrine
+  Dungeon135_master:
+    - text: Ruvo Korbah
+  Dungeon135_sub:
+    - text: A Major Test of Strength+
+  EnduranceDungeon:
+    - text: "Sword Monk's Shrine"
+  EnduranceDungeon01:
+    - text: "Sword Monk's Shrine"
+  EnduranceDungeon01_floor:
+    - text: Middle Trials
+  EnduranceDungeon01_floor10_sub:
+    - text: Underground Floor 10
+  EnduranceDungeon01_floor11_sub:
+    - text: Underground Floor 11
+  EnduranceDungeon01_floor12_sub:
+    - text: Underground Floor 12
+  EnduranceDungeon01_floor13_sub:
+    - text: Underground Floor 13
+  EnduranceDungeon01_floor14_sub:
+    - text: Underground Floor 14
+  EnduranceDungeon01_floor15_sub:
+    - text: Underground Floor 15
+  EnduranceDungeon01_floor16_sub:
+    - text: Underground Floor 16
+  EnduranceDungeon01_floor1_sub:
+    - text: Underground Floor 1
+  EnduranceDungeon01_floor2_sub:
+    - text: Underground Floor 2
+  EnduranceDungeon01_floor3_sub:
+    - text: Underground Floor 3
+  EnduranceDungeon01_floor4_sub:
+    - text: Underground Floor 4
+  EnduranceDungeon01_floor5_sub:
+    - text: Underground Floor 5
+  EnduranceDungeon01_floor6_sub:
+    - text: Underground Floor 6
+  EnduranceDungeon01_floor7_sub:
+    - text: Underground Floor 7
+  EnduranceDungeon01_floor8_sub:
+    - text: Underground Floor 8
+  EnduranceDungeon01_floor9_sub:
+    - text: Underground Floor 9
+  EnduranceDungeon01_master:
+    - text: Sword Monk
+  EnduranceDungeon01_master_00:
+    - text: Sword Monk
+  EnduranceDungeon01_sub:
+    - text: Middle Trials
+  EnduranceDungeon02:
+    - text: "Sword Monk's Shrine"
+  EnduranceDungeon02_floor:
+    - text: Final Trials
+  EnduranceDungeon02_floor10_sub:
+    - text: Underground Floor 10
+  EnduranceDungeon02_floor11_sub:
+    - text: Underground Floor 11
+  EnduranceDungeon02_floor12_sub:
+    - text: Underground Floor 12
+  EnduranceDungeon02_floor13_sub:
+    - text: Underground Floor 13
+  EnduranceDungeon02_floor14_sub:
+    - text: Underground Floor 14
+  EnduranceDungeon02_floor15_sub:
+    - text: Underground Floor 15
+  EnduranceDungeon02_floor16_sub:
+    - text: Underground Floor 16
+  EnduranceDungeon02_floor17_sub:
+    - text: Underground Floor 17
+  EnduranceDungeon02_floor18_sub:
+    - text: Underground Floor 18
+  EnduranceDungeon02_floor19_sub:
+    - text: Underground Floor 19
+  EnduranceDungeon02_floor1_sub:
+    - text: Underground Floor 1
+  EnduranceDungeon02_floor20_sub:
+    - text: Underground Floor 20
+  EnduranceDungeon02_floor21_sub:
+    - text: Underground Floor 21
+  EnduranceDungeon02_floor22_sub:
+    - text: Underground Floor 22
+  EnduranceDungeon02_floor23_sub:
+    - text: Underground Floor 23
+  EnduranceDungeon02_floor2_sub:
+    - text: Underground Floor 2
+  EnduranceDungeon02_floor3_sub:
+    - text: Underground Floor 3
+  EnduranceDungeon02_floor4_sub:
+    - text: Underground Floor 4
+  EnduranceDungeon02_floor5_sub:
+    - text: Underground Floor 5
+  EnduranceDungeon02_floor6_sub:
+    - text: Underground Floor 6
+  EnduranceDungeon02_floor7_sub:
+    - text: Underground Floor 7
+  EnduranceDungeon02_floor8_sub:
+    - text: Underground Floor 8
+  EnduranceDungeon02_floor9_sub:
+    - text: Underground Floor 9
+  EnduranceDungeon02_sub:
+    - text: Final Trials
+  EnduranceDungeon_floor:
+    - text: Beginning Trials
+  EnduranceDungeon_floor10_sub:
+    - text: Underground Floor 10
+  EnduranceDungeon_floor11_sub:
+    - text: Underground Floor 11
+  EnduranceDungeon_floor12_sub:
+    - text: Underground Floor 12
+  EnduranceDungeon_floor1_sub:
+    - text: Underground Floor 1
+  EnduranceDungeon_floor2_sub:
+    - text: Underground Floor 2
+  EnduranceDungeon_floor3_sub:
+    - text: Underground Floor 3
+  EnduranceDungeon_floor4_sub:
+    - text: Underground Floor 4
+  EnduranceDungeon_floor5_sub:
+    - text: Underground Floor 5
+  EnduranceDungeon_floor6_sub:
+    - text: Underground Floor 6
+  EnduranceDungeon_floor7_sub:
+    - text: Underground Floor 7
+  EnduranceDungeon_floor8_sub:
+    - text: Underground Floor 8
+  EnduranceDungeon_floor9_sub:
+    - text: Underground Floor 9
+  EnduranceDungeon_master:
+    - text: Sword Monk
+  EnduranceDungeon_sub:
+    - text: Beginning Trials

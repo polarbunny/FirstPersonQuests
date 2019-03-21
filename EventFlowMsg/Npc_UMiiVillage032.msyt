@@ -1,0 +1,177 @@
+---
+entries:
+  "0000":
+    - text: Indeed!
+  TerrorArrow:
+    - text: Watch out!
+  TerrorBomb:
+    - text: What is THAT?!
+  TerrorSword:
+    - text: Cut it out!
+  talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: Hey there!
+  talk01:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 0
+    - text: Wow!
+    - control:
+        kind: pause
+        length: short
+    - text: " How exciting!"
+    - control:
+        kind: pause
+        length: longer
+    - text: "\n\n\nNow then..."
+  talk02:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: Goooood morning!
+  talk03:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: Hiya!
+  talk04:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: Goooood evening!
+  talk06:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Do you need something from me?\n\n\n"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: Urk...
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  talk07:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Sorry, but we're heading to sleep now..."
+  talk08:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Sorry, dear, but I'm going to bed... "
+    - control:
+        kind: pause
+        length: short
+    - text: "\nSee you later."
+  talk09:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Talk to Hudson! Let's get this\nceremony started!"
+  talk10:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "We're here!"
+    - control:
+        kind: pause
+        length: short
+    - text: " Talk to Hudson and let's\nget this ceremony started!"
+  talk11:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "The bride and groom were so lovely,\nweren't they?"
+    - control:
+        kind: raw
+        one:
+          ten:
+            field_1: 4
+            field_2: 0
+            field_3:
+              - 1
+              - 205
+  talk12:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 9
+    - text: Love...
+    - control:
+        kind: pause
+        length: short
+    - text: " It's such a sublime, precious\nthing, you know?\n\nMy best wishes to the couple."
+  talk13:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Now that the wedding's over,"
+    - control:
+        kind: pause
+        length: short
+    - text: " we should\nprobably head back to Hateno Village."
+  talk14:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: Well then...
+  talk15:
+    - control:
+        kind: animation
+        name: Happy_01
+    - text: OK!
+  talk16:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 3
+    - text: "Karson! "
+    - control:
+        kind: pause
+        length: longer
+    - text: "We're going home!"
+  talk17:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Hey, can you hold on for a second?\nMaybe once we get settled, we can\nchat, OK?"

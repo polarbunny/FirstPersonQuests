@@ -1,0 +1,27 @@
+---
+entries:
+  talk00:
+    - control:
+        kind: animation
+        name: Activate
+    - text: There are three terminals remaining.
+  talk01:
+    - control:
+        kind: animation
+        name: Activate
+    - text: There are two terminals remaining.
+  talk02:
+    - control:
+        kind: animation
+        name: Activate
+    - text: There is one terminal remaining.
+  talk03:
+    - control:
+        kind: animation
+        name: Activate
+    - text: "All terminal locks have been deactivated.\nYou can now access the deepest area."
+  talk04:
+    - control:
+        kind: animation
+        name: Activate
+    - text: Deactivating one lock of the door.

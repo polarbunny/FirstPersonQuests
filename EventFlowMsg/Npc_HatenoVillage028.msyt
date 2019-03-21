@@ -1,0 +1,239 @@
+---
+entries:
+  "0000":
+    - text: "What is it, buddy?"
+  "0001":
+    - text: "Bye, kid."
+  "0002":
+    - text: Sure I do!
+  "0004":
+    - text: Well...
+  near01:
+    - text: Waaahhh!
+  near02:
+    - text: Aw...
+  near03:
+    - text: Zzz... Zzz...
+  near04:
+    - text: Ungh... There!
+  near05:
+    - text: Over here!
+  near06:
+    - text: "Hey, come see!"
+  talk00:
+    - control:
+        kind: sound
+        unknown:
+          - 6
+          - 11
+    - text: "Pretty "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: blue flame
+    - control:
+        kind: reset_colour
+    - text: "..."
+  talk01:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 6
+    - text: "Isn't that "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: blue flame
+    - control:
+        kind: reset_colour
+    - text: " hot?"
+  talk02:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 18
+    - text: "I'm sleepy. G'night..."
+  talk03:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 18
+    - text: You should go home to your own bed.
+  talk04:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 33
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: "*grumble*"
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  talk05:
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 33
+    - text: "S'not fair..."
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  talk06:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: "Hey, mister!"
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  talk07:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 1
+    - text: "Oh... "
+    - control:
+        kind: pause
+        length: long
+    - text: Bye!
+  talk08:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 9
+    - text: "You'll never guess what I found!"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nWanna see?"
+    - control:
+        kind: choice
+        choice_labels:
+          - 2
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  talk09:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 6
+    - text: Um...
+    - control:
+        kind: pause
+        length: short
+    - text: " Were you talking to that statue?"
+    - control:
+        kind: raw
+        one:
+          ten:
+            field_1: 4
+            field_2: 4
+            field_3:
+              - 1
+              - 205
+  talk10:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 1
+    - text: "'Kay! "
+    - control:
+        kind: pause
+        length: short
+    - text: Follow me!
+  talk11:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 10
+    - text: "It's this way!"
+  talk12:
+    - control:
+        kind: sound
+        unknown:
+          - 7
+          - 10
+    - text: "Here it is! "
+    - control:
+        kind: pause
+        length: short
+    - text: "Neat, huh?"
+  talk13:
+    - control:
+        kind: sound
+        unknown:
+          - 11
+          - 16
+    - text: "It looks kinda like the "
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: "statue "
+    - control:
+        kind: reset_colour
+    - text: "at the\n"
+    - control:
+        kind: set_colour
+        colour: blue
+    - text: chief
+    - control:
+        kind: reset_colour
+    - text: "'s house..."
+    - control:
+        kind: pause
+        length: short
+    - text: " What do you think it is?"
+  talk14:
+    - control:
+        kind: sound
+        unknown:
+          - 10
+          - 0
+    - text: "Wow! "
+    - control:
+        kind: pause
+        length: longer
+    - text: You talk to statues?! Weird!
+  talk15:
+    - control:
+        kind: sound
+        unknown:
+          - 0
+          - 0
+    - text: OK. See you!

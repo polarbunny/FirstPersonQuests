@@ -1,0 +1,86 @@
+---
+entries:
+  ClearTerrorEnemy_00:
+    - text: Hee...
+  ClearTerrorEnemy_01:
+    - text: Phew...
+  ClearTerrorEnemy_02:
+    - text: "Phew, hee..."
+  ClearTerrorGuardian_00:
+    - text: Hee...
+  ClearTerrorGuardian_01:
+    - text: Phew...
+  ClearTerrorGuardian_02:
+    - text: "Phew, hee..."
+  TerrorAnimal_00:
+    - text: Scaaaary!
+  TerrorAnimal_01:
+    - text: "Oh, nooooo!"
+  TerrorAnimal_02:
+    - text: "Help me, Mr. Hero!"
+  TerrorArrow_00:
+    - text: Yayaya!
+  TerrorArrow_01:
+    - text: Ah wawah...
+  TerrorArrow_02:
+    - text: Mmkya!
+  TerrorBomb_00:
+    - text: Boom?!
+  TerrorBomb_01:
+    - text: Sparkles?!
+  TerrorBomb_02:
+    - text: Heeeh!
+  TerrorEnemy_00:
+    - text: Scary!
+  TerrorEnemy_01:
+    - text: Nooo!
+  TerrorEnemy_02:
+    - text: "Help me, Mr. Hero!"
+  TerrorExplosion_00:
+    - text: Bada boom!
+  TerrorExplosion_01:
+    - text: Hyah!
+  TerrorExplosion_02:
+    - text: Ngya!
+  TerrorFire_00:
+    - text: Ouch ouch!
+  TerrorFire_01:
+    - text: Kyaah! Kyaaah!
+  TerrorFire_02:
+    - text: Scary...
+  TerrorGuardian_00:
+    - text: Scarrry!
+  TerrorGuardian_01:
+    - text: Noooo!
+  TerrorGuardian_02:
+    - text: "Help me, Mr. Hero!"
+  TerrorHorse_00:
+    - text: So biiiig!
+  TerrorHorse_01:
+    - text: Neeeeeigh!
+  TerrorHorse_02:
+    - text: Yah! Yah!
+  TerrorImpulse_00:
+    - text: Heeeeeh!
+  TerrorImpulse_01:
+    - text: Waaaah!
+  TerrorImpulse_02:
+    - text: Gyaaaah!
+  TerrorInsect_00:
+    - text: Buzz buzz buzz!
+  TerrorInsect_01:
+    - text: "Oh, nooooo!"
+  TerrorInsect_02:
+    - text: Wah!
+  TerrorLightning_00:
+    - text: "Oooh, flaaash!"
+  TerrorLightning_01:
+    - text: Zap zap!
+  TerrorLightning_02:
+    - text: Hya wah wah!
+  TerrorSword_00:
+    - text: Wah?
+  TerrorSword_01:
+    - text: Pyah!
+  TerrorSword_02:
+    - text: Hya!

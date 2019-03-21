@@ -1,0 +1,110 @@
+---
+entries:
+  AddGuardPlus_Name:
+    - text: Shield Guard Up +
+    - control:
+        kind: raw
+        two:
+          one_field:
+            - 13
+            - field_1: 0
+  AddGuard_Name:
+    - text: Shield Guard Up +
+    - control:
+        kind: raw
+        two:
+          one_field:
+            - 13
+            - field_1: 0
+  AddLifePlus_Name:
+    - text: Durability Up +
+  AddLife_Name:
+    - text: Durability Up
+  AddPowerPlus_Name:
+    - text: Attack Up +
+    - control:
+        kind: raw
+        two:
+          one_field:
+            - 13
+            - field_1: 0
+  AddPower_Name:
+    - text: Attack Up +
+    - control:
+        kind: raw
+        two:
+          one_field:
+            - 13
+            - field_1: 0
+  AllSpeed_Name:
+    - text: Speed Up
+  AttackUp_Name:
+    - text: Attack Up
+  Cb_AncientWeaponPowUp_Name:
+    - text: Ancient Proficiency
+  Cb_ChargeAttackEnergy_Name:
+    - text: Charge Atk. Stamina Up
+  Cb_DecSwimEnergy_Name:
+    - text: Swim Dash Stamina Up
+  Cb_DecWallJumpEnergy_Name:
+    - text: Climbing Jump Stamina Up
+  Cb_MasterSwordPowUp_Name:
+    - text: Master Sword Beam Up
+  Cb_NightGlow_Name:
+    - text: Disguise; Bone Atk. Up
+  Cb_NightMoveSpeedUp_Name:
+    - text: Night Speed Up
+  Cb_ResistElectric_Name:
+    - text: Shock Damage Resist
+  Cb_ResistFire_Name:
+    - text: Fireproof
+  Cb_ResistFreeze_Name:
+    - text: Unfreezable
+  Cb_ResistHot_Name:
+    - text: Heat-Resistant
+  Cb_ResistLightning_Name:
+    - text: Unshockable
+  Cb_TerrorAndNightMoveSpeedUp_Name:
+    - text: Night Speed Up
+  ClimbSpeedUp_Name:
+    - text: Climb Speed Up
+  Critical_Name:
+    - text: Critical Hit
+  DefenseUp_Name:
+    - text: Defense Up
+  ExGutsMaxUp_Name:
+    - text: Extra Stamina
+  Fireproof_Name:
+    - text: Flame Guard
+  GutsRecover_Name:
+    - text: Stamina Recovery
+  LifeMaxUp_Name:
+    - text: Extra Hearts
+  LongThrow_Name:
+    - text: Long Throw
+  Quietness_Name:
+    - text: Stealth Up
+  RapidFire_Name:
+    - text: Quick Shot
+  ReduceAncientEnemyDamge_Name:
+    - text: Guardian Resist Up
+  ResistCold_Name:
+    - text: Cold Resistance
+  ResistElectric_Name:
+    - text: Shock Resistance
+  ResistFreeze_Name:
+    - text: Unfreezable
+  ResistHot_Name:
+    - text: Heat Resistance
+  ResistLightning_Name:
+    - text: Lightning Proof
+  SandMoveSpeedUp_Name:
+    - text: Sand Speed Up
+  SnowMovingSpeed_Name:
+    - text: Snow Speed Up
+  SpreadFire_Name:
+    - text: Five-Shot Burst
+  SurfMaster_Name:
+    - text: Shield Surf Up
+  SwimSpeedUp_Name:
+    - text: Swim Speed Up

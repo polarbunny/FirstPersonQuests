@@ -1,0 +1,387 @@
+---
+entries:
+  "0000":
+    - text: Sure.
+  "0001":
+    - text: "I'll pass."
+  "0005":
+    - text: "I'll keep my rupees."
+  "0014":
+    - text: Here you go.
+  Talk00:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 0
+              - 205
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 80
+    - text: Boy...
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+    - text: "\n\n\nSweet boy...\n\n\nPlease..."
+    - control:
+        kind: pause
+        length: longer
+    - text: " Listen to my story..."
+    - control:
+        kind: choice
+        choice_labels:
+          - 0
+          - 1
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  Talk01:
+    - text: "Now... "
+    - control:
+        kind: pause
+        length: short
+    - text: "You have rupees for me, right?"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nHand them over. Quickly!"
+  Talk02:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 10
+              - 205
+    - text: That is truly tragic...
+  Talk03:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 0
+              - 205
+    - text: Ah...
+    - control:
+        kind: pause
+        length: short
+    - text: " You've returned."
+  Talk03_01:
+    - text: "Now... "
+    - control:
+        kind: pause
+        length: short
+    - text: "If you have rupees,"
+    - control:
+        kind: pause
+        length: short
+    - text: " hand them\nover to me. Quickly!"
+  Talk03_01B:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - text: "In order for me to regain my power,"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nI need "
+    - control:
+        kind: set_colour
+        colour: red
+    - control:
+        kind: variable
+        variable_kind: 17
+        name: AmountRupeeForNextRevivalFountain
+    - text: " rupees"
+    - control:
+        kind: reset_colour
+    - text: "."
+    - control:
+        kind: choice
+        choice_labels:
+          - 14
+          - 5
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  Talk03_01C:
+    - text: Oh? I feel the power of a new sister...
+    - control:
+        kind: pause
+        length: longer
+    - text: "\nQuickly,"
+    - control:
+        kind: pause
+        length: short
+    - text: " free me as well!"
+  Talk03_05B:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - text: "In order for me to regain my power,"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nI need "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: "1,000 rupees"
+    - control:
+        kind: reset_colour
+    - text: "."
+    - control:
+        kind: choice
+        choice_labels:
+          - 14
+          - 5
+        selected_index: 0
+        cancel_index: 1
+        unknown: 6
+  Talk03_m:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 0
+              - 205
+    - text: Well...
+    - control:
+        kind: pause
+        length: short
+    - text: " You're back!"
+    - control:
+        kind: pause
+        length: long
+    - text: "\nI mean... You've come back, have you?"
+  Talk04:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 10
+              - 205
+    - text: "What's this?"
+    - control:
+        kind: pause
+        length: long
+    - text: " You don't have enough\nrupees?\n\nHow tragic..."
+    - control:
+        kind: pause
+        length: long
+    - text: " How dreadfully tragic."
+  Talk06:
+    - text: "This place was once a beautiful spring...\n\n\nBut as time passed, fewer and fewer\ntravelers arrived to offer me rupees."
+    - control:
+        kind: pause
+        length: short
+    - text: " As a\nresult, my power has abandoned me.\nI'm nearly powerless now, so I beg your\nhelp. I need rupees to become whole\nagain."
+  Talk07:
+    - text: Hast thou...
+    - control:
+        kind: pause
+        length: short
+    - text: " I mean..."
+    - control:
+        kind: pause
+        length: short
+    - text: " Have you ever felt\nthe pain of losing a horse companion?\n\nIf my power is returned to me,"
+    - control:
+        kind: pause
+        length: short
+    - text: " I may be\nable to help you out in some way...\n\nSo please... I beg of you..."
+    - control:
+        kind: pause
+        length: longer
+    - text: "\nHelp me regain the power I've lost..."
+  Talk08:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 9
+              - 205
+    - text: Thank you. You are too kind.
+  Talk09:
+    - text: "Aah... "
+    - control:
+        kind: pause
+        length: short
+    - text: The power...
+  Talk09_1:
+    - text: "Nwaaaaaagh... "
+    - control:
+        kind: pause
+        length: short
+    - text: I...
+    - control:
+        kind: pause
+        length: short
+    - text: am...
+  Talk10:
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: "It's overflowing!!!"
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 90
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  Talk10_1:
+    - text: Revived!!
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - control:
+        kind: raw
+        one:
+          three:
+            field_1: 4
+            field_2: 90
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100
+  Talk11:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - text: I am the Great Fairy Cotera...
+  Talk12:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - text: I am the Great Fairy Mija...
+  Talk13:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - text: I am the Great Fairy Kaysa...
+  Talk14:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - text: I am the Great Fairy Tera...
+  Talk15:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - text: I am Malanya...
+  Talk16:
+    - control:
+        kind: set_colour
+        colour: red
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - control:
+        kind: reset_colour
+    - text: "All I need is "
+    - control:
+        kind: set_colour
+        colour: red
+    - control:
+        kind: variable
+        variable_kind: 17
+        name: AmountRupeeForNextRevivalFountain
+    - text: " rupees"
+    - control:
+        kind: reset_colour
+    - text: "..."
+  Talk20:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 2
+              - 205
+    - text: "All I need is "
+    - control:
+        kind: set_colour
+        colour: red
+    - text: "1,000 rupees"
+    - control:
+        kind: reset_colour
+    - text: "..."
+  Talk26:
+    - text: "Once my power has been restored,\nI can help you do great things, boy."
+  Talk27:
+    - text: "When my power has been restored,"
+    - control:
+        kind: pause
+        length: short
+    - text: "\nI should be able to be of use to\nyou, who loves horses so."
+  Talk28:
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 125
+    - text: Ah-HAAAAAAAAAAA!!!
+    - control:
+        kind: raw
+        zero:
+          two:
+            field_1: 2
+            field_2: 100

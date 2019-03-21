@@ -1,0 +1,60 @@
+---
+entries:
+  ClearTerrorEnemy:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 16
+              - 205
+    - text: Phew...
+  ClearTerrorGuardian:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 16
+              - 205
+    - text: That was scary...
+  Near:
+    - control:
+        kind: raw
+        four:
+          one:
+            field_1:
+              - 24
+              - 205
+    - text: No one beats my prices!
+  TerrorAnimal:
+    - text: Get back!
+  TerrorArrow:
+    - text: Please stop!
+  TerrorBomb:
+    - text: WHOA NOW!
+  TerrorEnemy:
+    - text: Eeeeeeeeek!
+  TerrorExplosion:
+    - text: Haaaaeeeeee!
+  TerrorFire:
+    - text: "I don't like fire!"
+  TerrorGuardian:
+    - text: Hyeeeeeeehh!
+  TerrorHorse:
+    - text: Whoa!
+  TerrorImpulse:
+    - text: Ohhh!
+  TerrorInsect:
+    - text: NOT BEES! AHHHH!
+  TerrorLightning:
+    - text: AHHH!
+  TerrorSword:
+    - text: Owww!
+  talk_03:
+    - control:
+        kind: sound
+        unknown:
+          - 10
+          - 20
+    - text: "Ooooooooh! I didn't expect to run into\nyou here!"
