@@ -19,4 +19,4 @@ entries:
         kind: reset_colour
     - text: ",\nthat which seals the darkness. I feel that the\nsword itself delights to be in my possession...\n\nEven at this moment, Princess Zelda is within\nHyrule Castle, fighting to suppress the Calamity.\nShe endures, believing I will come for her...\n\nWill I be able to save her as I am now?"
   QL_Get_MasterSword_Name:
-    - text: "The Heroine's Sword"
+    - text: "The Hero's Sword"
